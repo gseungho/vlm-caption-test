@@ -1,0 +1,2102 @@
+{
+ "seed": 20261105,
+ "dataset": "commons",
+ "models": {
+  "haiku": "claude-haiku-5-5",
+  "sonnet": "claude-sonnet-5-5",
+  "opus": "claude-opus-5-5"
+ },
+ "effort": "medium",
+ "max_tokens": 8000,
+ "smoke_items": 6,
+ "batch_limit_mb": 200,
+ "results_name": "caption_r2_commons",
+ "smoke_name": "caption_r1_smoke_commons",
+ "items": [
+  {
+   "item_id": "c032",
+   "photo": "c201829507",
+   "other_photo": "c202019200",
+   "true_caption": "Photograph shows a protest march with banners in Mexico City, Mexico on 2 October 2026.",
+   "false_caption": "Photograph shows a protest march with banners in Mexico City, Mexico on 6 August 2026.",
+   "changed": "date",
+   "true_value": "2 October 2026",
+   "false_value": "6 August 2026",
+   "group": "other",
+   "kind": "commemorative protest march",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c067",
+   "photo": "c195209525",
+   "other_photo": "c195761123",
+   "true_caption": "Photograph shows a tennis match in London, United Kingdom on 4 July 2026.",
+   "false_caption": "Photograph shows a tennis match in Saint-Germain-en-Laye, France on 4 July 2026.",
+   "changed": "place",
+   "true_value": "London, United Kingdom",
+   "false_value": "Saint-Germain-en-Laye, France",
+   "group": "sport",
+   "kind": "tennis match",
+   "checkable": true,
+   "text_in_photo": false,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c039",
+   "photo": "c197594381",
+   "other_photo": "c196055730",
+   "true_caption": "Photograph shows an outdoor protest rally in Berlin, Germany on 6 August 2026.",
+   "false_caption": "Photograph shows a street riot in Berlin, Germany on 6 August 2026.",
+   "changed": "event",
+   "true_value": "an outdoor protest rally",
+   "false_value": "a street riot",
+   "group": "other",
+   "kind": "climate protest rally",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c065",
+   "photo": "c197994789",
+   "other_photo": "c202492881",
+   "true_caption": "Photograph shows a football match in Grödig, Austria on 21 August 2026.",
+   "false_caption": "Photograph shows a football match in Grödig, Austria on 29 August 2026.",
+   "changed": "date",
+   "true_value": "21 August 2026",
+   "false_value": "29 August 2026",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c028",
+   "photo": "c197594756",
+   "other_photo": "c202207547",
+   "true_caption": "Photograph shows a street protest march in Berlin, Germany on 10 July 2026.",
+   "false_caption": "Photograph shows a street protest march in Portland, Oregon, United States on 10 July 2026.",
+   "changed": "place",
+   "true_value": "Berlin, Germany",
+   "false_value": "Portland, Oregon, United States",
+   "group": "other",
+   "kind": "protest march",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c075",
+   "photo": "c198942606",
+   "other_photo": "c195478955",
+   "true_caption": "Photograph shows a football match in Saint-Germain-en-Laye, France on 5 September 2026.",
+   "false_caption": "Photograph shows a rugby match in Saint-Germain-en-Laye, France on 5 September 2026.",
+   "changed": "event",
+   "true_value": "a football match",
+   "false_value": "a rugby match",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c044",
+   "photo": "c198906805",
+   "other_photo": "c195896298",
+   "true_caption": "Photograph shows a religious street procession in Paris, France on 30 August 2026.",
+   "false_caption": "Photograph shows a religious street procession in Paris, France on 18 July 2026.",
+   "changed": "date",
+   "true_value": "30 August 2026",
+   "false_value": "18 July 2026",
+   "group": "parade",
+   "kind": "Hindu religious procession",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c022",
+   "photo": "c195181130",
+   "other_photo": "c196072663",
+   "true_caption": "Photograph shows a stadium concert in Los Angeles, California, United States on 4 July 2026.",
+   "false_caption": "Photograph shows a stadium concert in Braga, Portugal on 4 July 2026.",
+   "changed": "place",
+   "true_value": "Los Angeles, California, United States",
+   "false_value": "Braga, Portugal",
+   "group": "music",
+   "kind": "stadium concert",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c051",
+   "photo": "c201473033",
+   "other_photo": "c199216627",
+   "true_caption": "Photograph shows a stadium show in Bishkek, Kyrgyzstan on 5 October 2026.",
+   "false_caption": "Photograph shows a vintage car show in Bishkek, Kyrgyzstan on 5 October 2026.",
+   "changed": "event",
+   "true_value": "a stadium show",
+   "false_value": "a vintage car show",
+   "group": "show",
+   "kind": "stadium opening show",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c035",
+   "photo": "c197053473",
+   "other_photo": "c197594262",
+   "true_caption": "Photograph shows a garden party reception in Ottawa, Canada on 4 July 2026.",
+   "false_caption": "Photograph shows a garden party reception in Ottawa, Canada on 19 September 2026.",
+   "changed": "date",
+   "true_value": "4 July 2026",
+   "false_value": "19 September 2026",
+   "group": "other",
+   "kind": "national day garden reception",
+   "checkable": false,
+   "text_in_photo": false,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c073",
+   "photo": "c199820022",
+   "other_photo": "c198922383",
+   "true_caption": "Photograph shows a football match in Paris, France on 19 September 2026.",
+   "false_caption": "Photograph shows a football match in Helsinki, Finland on 19 September 2026.",
+   "changed": "place",
+   "true_value": "Paris, France",
+   "false_value": "Helsinki, Finland",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": false,
+   "text_in_photo": false,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c063",
+   "photo": "c196434317",
+   "other_photo": "c199819089",
+   "true_caption": "Photograph shows a street cycling race in Graz, Austria on 28 July 2026.",
+   "false_caption": "Photograph shows a tennis match in Graz, Austria on 28 July 2026.",
+   "changed": "event",
+   "true_value": "a street cycling race",
+   "false_value": "a tennis match",
+   "group": "sport",
+   "kind": "cycling criterium",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c047",
+   "photo": "c195845548",
+   "other_photo": "c196078876",
+   "true_caption": "Photograph shows an advertising caravan parade in Belfort, France on 17 July 2026.",
+   "false_caption": "Photograph shows an advertising caravan parade in Belfort, France on 4 July 2026.",
+   "changed": "date",
+   "true_value": "17 July 2026",
+   "false_value": "4 July 2026",
+   "group": "parade",
+   "kind": "publicity caravan parade",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c052",
+   "photo": "c199217190",
+   "other_photo": "c199416563",
+   "true_caption": "Photograph shows an automotive trade fair in Frankfurt, Germany on 8 September 2026.",
+   "false_caption": "Photograph shows an automotive trade fair in Vienna, Austria on 8 September 2026.",
+   "changed": "place",
+   "true_value": "Frankfurt, Germany",
+   "false_value": "Vienna, Austria",
+   "group": "show",
+   "kind": "automotive trade fair",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c012",
+   "photo": "c195369346",
+   "other_photo": "c195192214",
+   "true_caption": "Photograph shows an outdoor football fan festival in Mexico City, Mexico on 7 July 2026.",
+   "false_caption": "Photograph shows a costumed street festival in Mexico City, Mexico on 7 July 2026.",
+   "changed": "event",
+   "true_value": "an outdoor football fan festival",
+   "false_value": "a costumed street festival",
+   "group": "festival",
+   "kind": "football fan festival",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c020",
+   "photo": "c198887955",
+   "other_photo": "c195968317",
+   "true_caption": "Photograph shows a live band concert in Braga, Portugal on 4 September 2026.",
+   "false_caption": "Photograph shows a live band concert in Braga, Portugal on 11 July 2026.",
+   "changed": "date",
+   "true_value": "4 September 2026",
+   "false_value": "11 July 2026",
+   "group": "music",
+   "kind": "blues concert",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c001",
+   "photo": "c198834346",
+   "other_photo": "c199502741",
+   "true_caption": "Photograph shows a stadium opening ceremony in Bishkek, Kyrgyzstan on 31 August 2026.",
+   "false_caption": "Photograph shows a stadium opening ceremony in Oslo, Norway on 31 August 2026.",
+   "changed": "place",
+   "true_value": "Bishkek, Kyrgyzstan",
+   "false_value": "Oslo, Norway",
+   "group": "ceremony",
+   "kind": "opening ceremony",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c036",
+   "photo": "c195145313",
+   "other_photo": "c197053432",
+   "true_caption": "Photograph shows a street bed race in Long Lake, New York, United States on 4 July 2026.",
+   "false_caption": "Photograph shows a street protest rally in Long Lake, New York, United States on 4 July 2026.",
+   "changed": "event",
+   "true_value": "a street bed race",
+   "false_value": "a street protest rally",
+   "group": "other",
+   "kind": "bed race",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c038",
+   "photo": "c202215846",
+   "other_photo": "c201864286",
+   "true_caption": "Photograph shows an outdoor protest rally in Bellingham, Washington, United States on 17 October 2026.",
+   "false_caption": "Photograph shows an outdoor protest rally in Bellingham, Washington, United States on 19 September 2026.",
+   "changed": "date",
+   "true_value": "17 October 2026",
+   "false_value": "19 September 2026",
+   "group": "other",
+   "kind": "protest rally",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c004",
+   "photo": "c202083511",
+   "other_photo": "c196896279",
+   "true_caption": "Photograph shows a large indoor ceremony in Cyberjaya, Malaysia on 17 October 2026.",
+   "false_caption": "Photograph shows a large indoor ceremony in Sankt Oswald in Freiland, Austria on 17 October 2026.",
+   "changed": "place",
+   "true_value": "Cyberjaya, Malaysia",
+   "false_value": "Sankt Oswald in Freiland, Austria",
+   "group": "ceremony",
+   "kind": "book launch ceremony",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c060",
+   "photo": "c198083589",
+   "other_photo": "c199367228",
+   "true_caption": "Photograph shows a road cycling race in Esparron-de-Verdon, France on 23 August 2026.",
+   "false_caption": "Photograph shows a horse race meeting in Esparron-de-Verdon, France on 23 August 2026.",
+   "changed": "event",
+   "true_value": "a road cycling race",
+   "false_value": "a horse race meeting",
+   "group": "sport",
+   "kind": "road cycling race",
+   "checkable": true,
+   "text_in_photo": false,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c077",
+   "photo": "c197003320",
+   "other_photo": "c195761123",
+   "true_caption": "Photograph shows a baseball game in Cleveland, Ohio, United States on 6 August 2026.",
+   "false_caption": "Photograph shows a baseball game in Cleveland, Ohio, United States on 14 July 2026.",
+   "changed": "date",
+   "true_value": "6 August 2026",
+   "false_value": "14 July 2026",
+   "group": "sport",
+   "kind": "baseball game",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c046",
+   "photo": "c196078298",
+   "other_photo": "c195845630",
+   "true_caption": "Photograph shows an advertising caravan parade in Chambéry, France on 22 July 2026.",
+   "false_caption": "Photograph shows an advertising caravan parade in Belfort, France on 22 July 2026.",
+   "changed": "place",
+   "true_value": "Chambéry, France",
+   "false_value": "Belfort, France",
+   "group": "parade",
+   "kind": "publicity caravan parade",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c048",
+   "photo": "c195739665",
+   "other_photo": "c196190001",
+   "true_caption": "Photograph shows a military parade in Paris, France on 14 July 2026.",
+   "false_caption": "Photograph shows an advertising caravan parade in Paris, France on 14 July 2026.",
+   "changed": "event",
+   "true_value": "a military parade",
+   "false_value": "an advertising caravan parade",
+   "group": "parade",
+   "kind": "military parade",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c011",
+   "photo": "c198122860",
+   "other_photo": "c195654402",
+   "true_caption": "Photograph shows a traditional folk festival in Probsteierhagen, Germany on 23 August 2026.",
+   "false_caption": "Photograph shows a traditional folk festival in Probsteierhagen, Germany on 25 July 2026.",
+   "changed": "date",
+   "true_value": "23 August 2026",
+   "false_value": "25 July 2026",
+   "group": "festival",
+   "kind": "harvest folk festival",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c055",
+   "photo": "c196076357",
+   "other_photo": "c198083588",
+   "true_caption": "Photograph shows a road cycling race in Sassenage, France on 23 July 2026.",
+   "false_caption": "Photograph shows a road cycling race in Paris, France on 23 July 2026.",
+   "changed": "place",
+   "true_value": "Sassenage, France",
+   "false_value": "Paris, France",
+   "group": "sport",
+   "kind": "road cycling race",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c042",
+   "photo": "c195896312",
+   "other_photo": "c196078876",
+   "true_caption": "Photograph shows an advertising caravan parade in Bollwiller, France on 18 July 2026.",
+   "false_caption": "Photograph shows a river boat parade in Bollwiller, France on 18 July 2026.",
+   "changed": "event",
+   "true_value": "an advertising caravan parade",
+   "false_value": "a river boat parade",
+   "group": "parade",
+   "kind": "publicity caravan parade",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c059",
+   "photo": "c202492886",
+   "other_photo": "c198940870",
+   "true_caption": "Photograph shows a football match in Baku, Azerbaijan on 30 October 2026.",
+   "false_caption": "Photograph shows a football match in Baku, Azerbaijan on 5 September 2026.",
+   "changed": "date",
+   "true_value": "30 October 2026",
+   "false_value": "5 September 2026",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c049",
+   "photo": "c199624223",
+   "other_photo": "c201471173",
+   "true_caption": "Photograph shows a tabletop gaming convention in Vienna, Austria on 12 July 2026.",
+   "false_caption": "Photograph shows a tabletop gaming convention in Frankfurt, Germany on 12 July 2026.",
+   "changed": "place",
+   "true_value": "Vienna, Austria",
+   "false_value": "Frankfurt, Germany",
+   "group": "show",
+   "kind": "board game convention",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c003",
+   "photo": "c196896277",
+   "other_photo": "c202083524",
+   "true_caption": "Photograph shows a church procession in Sankt Oswald in Freiland, Austria on 2 August 2026.",
+   "false_caption": "Photograph shows a large indoor ceremony in Sankt Oswald in Freiland, Austria on 2 August 2026.",
+   "changed": "event",
+   "true_value": "a church procession",
+   "false_value": "a large indoor ceremony",
+   "group": "ceremony",
+   "kind": "church procession",
+   "checkable": true,
+   "text_in_photo": false,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c041",
+   "photo": "c196974163",
+   "other_photo": "c201831539",
+   "true_caption": "Photograph shows a street parade in Vancouver, Canada on 2 August 2026.",
+   "false_caption": "Photograph shows a street parade in Vancouver, Canada on 4 July 2026.",
+   "changed": "date",
+   "true_value": "2 August 2026",
+   "false_value": "4 July 2026",
+   "group": "parade",
+   "kind": "pride parade",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c025",
+   "photo": "c195948215",
+   "other_photo": "c195959356",
+   "true_caption": "Photograph shows a stadium halftime show in East Rutherford, New Jersey, United States on 19 July 2026.",
+   "false_caption": "Photograph shows a stadium halftime show in Nijmegen, Netherlands on 19 July 2026.",
+   "changed": "place",
+   "true_value": "East Rutherford, New Jersey, United States",
+   "false_value": "Nijmegen, Netherlands",
+   "group": "music",
+   "kind": "stadium halftime show",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c027",
+   "photo": "c201952325",
+   "other_photo": "c202215844",
+   "true_caption": "Photograph shows an outdoor protest rally in Minneapolis, Minnesota, United States on 17 October 2026.",
+   "false_caption": "Photograph shows a protest march with banners in Minneapolis, Minnesota, United States on 17 October 2026.",
+   "changed": "event",
+   "true_value": "an outdoor protest rally",
+   "false_value": "a protest march with banners",
+   "group": "other",
+   "kind": "protest rally",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c071",
+   "photo": "c201076379",
+   "other_photo": "c195478955",
+   "true_caption": "Photograph shows a floodlit football match in Thionville, France on 26 September 2026.",
+   "false_caption": "Photograph shows a floodlit football match in Thionville, France on 30 October 2026.",
+   "changed": "date",
+   "true_value": "26 September 2026",
+   "false_value": "30 October 2026",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c040",
+   "photo": "c200393150",
+   "other_photo": "c199365732",
+   "true_caption": "Photograph shows a street protest rally in Manila, Philippines on 21 September 2026.",
+   "false_caption": "Photograph shows a street protest rally in Newcastle upon Tyne, United Kingdom on 21 September 2026.",
+   "changed": "place",
+   "true_value": "Manila, Philippines",
+   "false_value": "Newcastle upon Tyne, United Kingdom",
+   "group": "other",
+   "kind": "political protest rally",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c033",
+   "photo": "c202207468",
+   "other_photo": "c197594818",
+   "true_caption": "Photograph shows a street protest march in Paris, France on 24 October 2026.",
+   "false_caption": "Photograph shows a street bed race in Paris, France on 24 October 2026.",
+   "changed": "event",
+   "true_value": "a street protest march",
+   "false_value": "a street bed race",
+   "group": "other",
+   "kind": "protest march",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c050",
+   "photo": "c199416568",
+   "other_photo": "c199624217",
+   "true_caption": "Photograph shows a vintage car show in Großschönau, Germany on 29 August 2026.",
+   "false_caption": "Photograph shows a vintage car show in Großschönau, Germany on 5 October 2026.",
+   "changed": "date",
+   "true_value": "29 August 2026",
+   "false_value": "5 October 2026",
+   "group": "show",
+   "kind": "vintage car show",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c037",
+   "photo": "c201889926",
+   "other_photo": "c201952577",
+   "true_caption": "Photograph shows a street protest in Helsinki, Finland on 19 September 2026.",
+   "false_caption": "Photograph shows a street protest in Minneapolis, Minnesota, United States on 19 September 2026.",
+   "changed": "place",
+   "true_value": "Helsinki, Finland",
+   "false_value": "Minneapolis, Minnesota, United States",
+   "group": "other",
+   "kind": "protest rally",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c021",
+   "photo": "c196225353",
+   "other_photo": "c200650677",
+   "true_caption": "Photograph shows a live band concert in Nijmegen, Netherlands on 22 July 2026.",
+   "false_caption": "Photograph shows a stadium halftime show in Nijmegen, Netherlands on 22 July 2026.",
+   "changed": "event",
+   "true_value": "a live band concert",
+   "false_value": "a stadium halftime show",
+   "group": "music",
+   "kind": "music festival concert",
+   "checkable": true,
+   "text_in_photo": false,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c056",
+   "photo": "c199369381",
+   "other_photo": "c196076354",
+   "true_caption": "Photograph shows a road cycling race in Lincoln, United Kingdom on 2 September 2026.",
+   "false_caption": "Photograph shows a road cycling race in Lincoln, United Kingdom on 23 August 2026.",
+   "changed": "date",
+   "true_value": "2 September 2026",
+   "false_value": "23 August 2026",
+   "group": "sport",
+   "kind": "road cycling race",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c034",
+   "photo": "c201989551",
+   "other_photo": "c202207547",
+   "true_caption": "Photograph shows a street protest march in Portland, Oregon, United States on 17 October 2026.",
+   "false_caption": "Photograph shows a street protest march in Berlin, Germany on 17 October 2026.",
+   "changed": "place",
+   "true_value": "Portland, Oregon, United States",
+   "false_value": "Berlin, Germany",
+   "group": "other",
+   "kind": "protest march",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c030",
+   "photo": "c202019131",
+   "other_photo": "c200490125",
+   "true_caption": "Photograph shows a street riot in Paris, France on 17 October 2026.",
+   "false_caption": "Photograph shows a protest march with placards in Paris, France on 17 October 2026.",
+   "changed": "event",
+   "true_value": "a street riot",
+   "false_value": "a protest march with placards",
+   "group": "other",
+   "kind": "street riot",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c029",
+   "photo": "c199365734",
+   "other_photo": "c201829510",
+   "true_caption": "Photograph shows a protest march with placards in Amsterdam, Netherlands on 12 September 2026.",
+   "false_caption": "Photograph shows a protest march with placards in Amsterdam, Netherlands on 17 October 2026.",
+   "changed": "date",
+   "true_value": "12 September 2026",
+   "false_value": "17 October 2026",
+   "group": "other",
+   "kind": "climate march",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c007",
+   "photo": "c199350866",
+   "other_photo": "c200989064",
+   "true_caption": "Photograph shows a night-time town light festival in Bad Mergentheim, Germany on 11 September 2026.",
+   "false_caption": "Photograph shows a night-time town light festival in Mexico City, Mexico on 11 September 2026.",
+   "changed": "place",
+   "true_value": "Bad Mergentheim, Germany",
+   "false_value": "Mexico City, Mexico",
+   "group": "festival",
+   "kind": "town light festival",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c006",
+   "photo": "c196208559",
+   "other_photo": "c199350848",
+   "true_caption": "Photograph shows a village festival arch raising in Braga, Portugal on 25 July 2026.",
+   "false_caption": "Photograph shows a funfair with rides in Braga, Portugal on 25 July 2026.",
+   "changed": "event",
+   "true_value": "a village festival arch raising",
+   "false_value": "a funfair with rides",
+   "group": "festival",
+   "kind": "festival arch raising",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c023",
+   "photo": "c198913625",
+   "other_photo": "c195948220",
+   "true_caption": "Photograph shows a wind band concert in Póvoa de Lanhoso, Portugal on 30 August 2026.",
+   "false_caption": "Photograph shows a wind band concert in Póvoa de Lanhoso, Portugal on 19 July 2026.",
+   "changed": "date",
+   "true_value": "30 August 2026",
+   "false_value": "19 July 2026",
+   "group": "music",
+   "kind": "wind band concert",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c031",
+   "photo": "c196055397",
+   "other_photo": "c197594818",
+   "true_caption": "Photograph shows an outdoor football screening in Newcastle upon Tyne, United Kingdom on 15 July 2026.",
+   "false_caption": "Photograph shows an outdoor football screening in Ottawa, Canada on 15 July 2026.",
+   "changed": "place",
+   "true_value": "Newcastle upon Tyne, United Kingdom",
+   "false_value": "Ottawa, Canada",
+   "group": "other",
+   "kind": "outdoor football screening",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c045",
+   "photo": "c196190038",
+   "other_photo": "c195739675",
+   "true_caption": "Photograph shows a river boat parade in Ulm, Germany on 20 July 2026.",
+   "false_caption": "Photograph shows a religious street procession in Ulm, Germany on 20 July 2026.",
+   "changed": "event",
+   "true_value": "a river boat parade",
+   "false_value": "a religious street procession",
+   "group": "parade",
+   "kind": "river boat parade",
+   "checkable": true,
+   "text_in_photo": false,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c008",
+   "photo": "c200989065",
+   "other_photo": "c198122865",
+   "true_caption": "Photograph shows an outdoor festival with stalls in Hahira, Georgia, United States on 3 October 2026.",
+   "false_caption": "Photograph shows an outdoor festival with stalls in Hahira, Georgia, United States on 20 September 2026.",
+   "changed": "date",
+   "true_value": "3 October 2026",
+   "false_value": "20 September 2026",
+   "group": "festival",
+   "kind": "town festival",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c058",
+   "photo": "c198921857",
+   "other_photo": "c202188632",
+   "true_caption": "Photograph shows a football match in Newcastle upon Tyne, United Kingdom on 5 September 2026.",
+   "false_caption": "Photograph shows a football match in Wals-Siezenheim, Austria on 5 September 2026.",
+   "changed": "place",
+   "true_value": "Newcastle upon Tyne, United Kingdom",
+   "false_value": "Wals-Siezenheim, Austria",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c069",
+   "photo": "c196197522",
+   "other_photo": "c196076354",
+   "true_caption": "Photograph shows a road cycling race in Saint-Martin-d'Arc, France on 25 July 2026.",
+   "false_caption": "Photograph shows a football match in Saint-Martin-d'Arc, France on 25 July 2026.",
+   "changed": "event",
+   "true_value": "a road cycling race",
+   "false_value": "a football match",
+   "group": "sport",
+   "kind": "road cycling race",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c053",
+   "photo": "c202188714",
+   "other_photo": "c202298967",
+   "true_caption": "Photograph shows a football match in Wals-Siezenheim, Austria on 24 October 2026.",
+   "false_caption": "Photograph shows a football match in Wals-Siezenheim, Austria on 19 September 2026.",
+   "changed": "date",
+   "true_value": "24 October 2026",
+   "false_value": "19 September 2026",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c016",
+   "photo": "c195932245",
+   "other_photo": "c198887954",
+   "true_caption": "Photograph shows an open-air concert in Nijmegen, Netherlands on 18 July 2026.",
+   "false_caption": "Photograph shows an open-air concert in Helsinki, Finland on 18 July 2026.",
+   "changed": "place",
+   "true_value": "Nijmegen, Netherlands",
+   "false_value": "Helsinki, Finland",
+   "group": "music",
+   "kind": "open-air concert",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c072",
+   "photo": "c196994811",
+   "other_photo": "c197994808",
+   "true_caption": "Photograph shows a football match in Bondoufle, France on 7 August 2026.",
+   "false_caption": "Photograph shows a rugby match in Bondoufle, France on 7 August 2026.",
+   "changed": "event",
+   "true_value": "a football match",
+   "false_value": "a rugby match",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c005",
+   "photo": "c202028381",
+   "other_photo": "c195344184",
+   "true_caption": "Photograph shows a city light festival in Berlin, Germany on 15 October 2026.",
+   "false_caption": "Photograph shows a city light festival in Berlin, Germany on 3 July 2026.",
+   "changed": "date",
+   "true_value": "15 October 2026",
+   "false_value": "3 July 2026",
+   "group": "festival",
+   "kind": "light festival",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c043",
+   "photo": "c201803330",
+   "other_photo": "c196974259",
+   "true_caption": "Photograph shows a pride parade in Steyr, Austria on 4 July 2026.",
+   "false_caption": "Photograph shows a pride parade in Vancouver, Canada on 4 July 2026.",
+   "changed": "place",
+   "true_value": "Steyr, Austria",
+   "false_value": "Vancouver, Canada",
+   "group": "parade",
+   "kind": "pride parade",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "yes",
+    "unknown"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c024",
+   "photo": "c196986377",
+   "other_photo": "c195948220",
+   "true_caption": "Photograph shows a live music concert in Helsinki, Finland on 7 August 2026.",
+   "false_caption": "Photograph shows a wind band concert in Helsinki, Finland on 7 August 2026.",
+   "changed": "event",
+   "true_value": "a live music concert",
+   "false_value": "a wind band concert",
+   "group": "music",
+   "kind": "folk music concert",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c068",
+   "photo": "c198414118",
+   "other_photo": "c198940870",
+   "true_caption": "Photograph shows a football match in Villefranche-sur-Saône, France on 29 August 2026.",
+   "false_caption": "Photograph shows a football match in Villefranche-sur-Saône, France on 7 August 2026.",
+   "changed": "date",
+   "true_value": "29 August 2026",
+   "false_value": "7 August 2026",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c010",
+   "photo": "c195343013",
+   "other_photo": "c202028370",
+   "true_caption": "Photograph shows an outdoor light festival in Adelaide, Australia on 3 July 2026.",
+   "false_caption": "Photograph shows an outdoor light festival in Berlin, Germany on 3 July 2026.",
+   "changed": "place",
+   "true_value": "Adelaide, Australia",
+   "false_value": "Berlin, Germany",
+   "group": "festival",
+   "kind": "light festival",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c066",
+   "photo": "c195477518",
+   "other_photo": "c201076304",
+   "true_caption": "Photograph shows a football match in Inglewood, California, United States on 10 July 2026.",
+   "false_caption": "Photograph shows a tennis match in Inglewood, California, United States on 10 July 2026.",
+   "changed": "event",
+   "true_value": "a football match",
+   "false_value": "a tennis match",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c014",
+   "photo": "c195654222",
+   "other_photo": "c195369345",
+   "true_caption": "Photograph shows a fireworks display in Belfort, France on 13 July 2026.",
+   "false_caption": "Photograph shows a fireworks display in Belfort, France on 4 July 2026.",
+   "changed": "date",
+   "true_value": "13 July 2026",
+   "false_value": "4 July 2026",
+   "group": "festival",
+   "kind": "fireworks display",
+   "checkable": false,
+   "text_in_photo": false,
+   "option_order": [
+    "yes",
+    "no",
+    "unknown"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c061",
+   "photo": "c202298977",
+   "other_photo": "c196995648",
+   "true_caption": "Photograph shows a football match in Helsinki, Finland on 25 October 2026.",
+   "false_caption": "Photograph shows a football match in Inglewood, California, United States on 25 October 2026.",
+   "changed": "place",
+   "true_value": "Helsinki, Finland",
+   "false_value": "Inglewood, California, United States",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c078",
+   "photo": "c197112106",
+   "other_photo": "c196196737",
+   "true_caption": "Photograph shows a road cycling race in Paris, France on 26 July 2026.",
+   "false_caption": "Photograph shows a football match in Paris, France on 26 July 2026.",
+   "changed": "event",
+   "true_value": "a road cycling race",
+   "false_value": "a football match",
+   "group": "sport",
+   "kind": "road cycling race",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c026",
+   "photo": "c196072664",
+   "other_photo": "c195626811",
+   "true_caption": "Photograph shows an open-air concert in Rudolstadt, Germany on 2 July 2026.",
+   "false_caption": "Photograph shows an open-air concert in Rudolstadt, Germany on 18 September 2026.",
+   "changed": "date",
+   "true_value": "2 July 2026",
+   "false_value": "18 September 2026",
+   "group": "music",
+   "kind": "open-air festival concert",
+   "checkable": false,
+   "text_in_photo": false,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c076",
+   "photo": "c198680034",
+   "other_photo": "c195646531",
+   "true_caption": "Photograph shows a street circuit motor race in Washington, D.C., United States on 23 August 2026.",
+   "false_caption": "Photograph shows a street circuit motor race in Moscow, Russia on 23 August 2026.",
+   "changed": "place",
+   "true_value": "Washington, D.C., United States",
+   "false_value": "Moscow, Russia",
+   "group": "sport",
+   "kind": "motor race",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c009",
+   "photo": "c199699348",
+   "other_photo": "c199350848",
+   "true_caption": "Photograph shows a funfair with rides in Wiesbaden, Germany on 4 July 2026.",
+   "false_caption": "Photograph shows an outdoor festival with stalls in Wiesbaden, Germany on 4 July 2026.",
+   "changed": "event",
+   "true_value": "a funfair with rides",
+   "false_value": "an outdoor festival with stalls",
+   "group": "festival",
+   "kind": "funfair",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "no",
+    "yes"
+   ],
+   "true_first": false
+  },
+  {
+   "item_id": "c017",
+   "photo": "c200650673",
+   "other_photo": "c195626811",
+   "true_caption": "Photograph shows a live music concert in Nashville, Tennessee, United States on 18 September 2026.",
+   "false_caption": "Photograph shows a live music concert in Nashville, Tennessee, United States on 18 July 2026.",
+   "changed": "date",
+   "true_value": "18 September 2026",
+   "false_value": "18 July 2026",
+   "group": "music",
+   "kind": "Americana music festival",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c070",
+   "photo": "c199310256",
+   "other_photo": "c197003004",
+   "true_caption": "Photograph shows a baseball game opening ceremony in Philadelphia, Pennsylvania, United States on 14 July 2026.",
+   "false_caption": "Photograph shows a baseball game opening ceremony in Cleveland, Ohio, United States on 14 July 2026.",
+   "changed": "place",
+   "true_value": "Philadelphia, Pennsylvania, United States",
+   "false_value": "Cleveland, Ohio, United States",
+   "group": "sport",
+   "kind": "baseball game",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "yes",
+    "unknown",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c054",
+   "photo": "c199122140",
+   "other_photo": "c198922383",
+   "true_caption": "Photograph shows a football match in London, United Kingdom on 5 September 2026.",
+   "false_caption": "Photograph shows a road cycling race in London, United Kingdom on 5 September 2026.",
+   "changed": "event",
+   "true_value": "a football match",
+   "false_value": "a road cycling race",
+   "group": "sport",
+   "kind": "football match",
+   "checkable": true,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c062",
+   "photo": "c202151087",
+   "other_photo": "c198414122",
+   "true_caption": "Photograph shows a rugby match in Canberra, Australia on 23 October 2026.",
+   "false_caption": "Photograph shows a rugby match in Canberra, Australia on 2 September 2026.",
+   "changed": "date",
+   "true_value": "23 October 2026",
+   "false_value": "2 September 2026",
+   "group": "sport",
+   "kind": "rugby match",
+   "checkable": false,
+   "text_in_photo": true,
+   "option_order": [
+    "unknown",
+    "yes",
+    "no"
+   ],
+   "true_first": true
+  },
+  {
+   "item_id": "c013",
+   "photo": "c202173777",
+   "other_photo": "c196208574",
+   "true_caption": "Photograph shows a costumed street festival in Belfort, France on 23 October 2026.",
+   "false_caption": "Photograph shows a costumed street festival in Bad Mergentheim, Germany on 23 October 2026.",
+   "changed": "place",
+   "true_value": "Belfort, France",
+   "false_value": "Bad Mergentheim, Germany",
+   "group": "festival",
+   "kind": "Halloween street festival",
+   "checkable": false,
+   "text_in_photo": false,
+   "option_order": [
+    "no",
+    "unknown",
+    "yes"
+   ],
+   "true_first": false
+  }
+ ],
+ "photos": {
+  "c201829507": {
+   "sha256": "474497f135b56a8084d4e48a7e345387bc5807b474b5962c534e2e27001f9072",
+   "width": 1000,
+   "height": 753
+  },
+  "c202019200": {
+   "sha256": "960865ef02ef08e41575542a6b8cccf854cf129da72626eca274feb08d23e448",
+   "width": 1000,
+   "height": 666
+  },
+  "c195209525": {
+   "sha256": "f6bd11e64e99399901ce9566a7da77d40f67283792e88d8e7fe80e39e29fa43d",
+   "width": 1000,
+   "height": 666
+  },
+  "c195761123": {
+   "sha256": "4e139df8ea10b59b8be8aab80846437da5651a3ccd211ac17cf134438cb6fc5f",
+   "width": 1000,
+   "height": 666
+  },
+  "c197594381": {
+   "sha256": "9eee04e7905a2ec9a0aeac641d2b2a1dac2155e2ebceb136242e749e4f77fc9b",
+   "width": 1000,
+   "height": 666
+  },
+  "c196055730": {
+   "sha256": "e7c661e06135506ea484d908097441e603e8ea961c53bd1d89da8f2993108381",
+   "width": 1000,
+   "height": 750
+  },
+  "c197994789": {
+   "sha256": "32b714da96adced3688e571f1a4c151c2c65a9d8490e19e019de98a85ffc5def",
+   "width": 1000,
+   "height": 754
+  },
+  "c202492881": {
+   "sha256": "f7525192bc3a69416f72f6f4e9f4da376c70639a799243a7a14b3e83480a60c9",
+   "width": 1000,
+   "height": 666
+  },
+  "c197594756": {
+   "sha256": "8d55708815ef640e615fc0de68a57ef4bc765893c6f25dc8c2d4849d0e435ea8",
+   "width": 1000,
+   "height": 666
+  },
+  "c202207547": {
+   "sha256": "9a1588498aced11b478a765f3ba5563211596acdea923fdc78c9bbc53efe284a",
+   "width": 667,
+   "height": 1000
+  },
+  "c198942606": {
+   "sha256": "8ae6bc206693d75fbd46ec253f6457cc2ef96fee2a6f01d1be4d21c052552953",
+   "width": 1000,
+   "height": 750
+  },
+  "c195478955": {
+   "sha256": "4c0db030987d757f81815a38e2e00ee432dffd067ddce2b443cd0cee84b158d9",
+   "width": 1000,
+   "height": 750
+  },
+  "c198906805": {
+   "sha256": "5e479fa98655125dbd9033b4c16ffa2196edfddbee3f1c0542a871d91ed539fe",
+   "width": 1000,
+   "height": 666
+  },
+  "c195896298": {
+   "sha256": "409ff134f988885ed1e070381c339f568782ab301aa25563aeee62ffeff2e88c",
+   "width": 935,
+   "height": 1000
+  },
+  "c195181130": {
+   "sha256": "e1ae88da37c485e010cc44f8d535de597cac08c8eb79aa84d02017c6dd616439",
+   "width": 1000,
+   "height": 562
+  },
+  "c196072663": {
+   "sha256": "f808bd770cabd62a15a4789725978859be0b81682a007631bba81be90e4ed3f4",
+   "width": 1000,
+   "height": 666
+  },
+  "c201473033": {
+   "sha256": "31840d1181351293d16c436d2754013c2d7b72ced4799bcf39a0b7ee03856895",
+   "width": 1000,
+   "height": 750
+  },
+  "c199216627": {
+   "sha256": "c84288df011bbe6efc60fff86ff73ef7682741e462db42c9cbf8d7773b49ecb3",
+   "width": 1000,
+   "height": 751
+  },
+  "c197053473": {
+   "sha256": "3e9971243c6b6e67d06b68281e1cf32f8e211c638c79ad396b0c9e8ed0bf0e78",
+   "width": 1000,
+   "height": 666
+  },
+  "c197594262": {
+   "sha256": "294aaf88cbc20cfd09f83d908070b938eeac01d48a01eb91b3d685ca2e77748a",
+   "width": 1000,
+   "height": 666
+  },
+  "c199820022": {
+   "sha256": "c57bef7964df006a73c038841257a68b7a2005715dd982623bebd959d6ecf460",
+   "width": 1000,
+   "height": 750
+  },
+  "c198922383": {
+   "sha256": "1671f9b34a49d79cbe8b340bcf261a688176bdac113a9d59179c9ef3bab6982b",
+   "width": 1000,
+   "height": 750
+  },
+  "c196434317": {
+   "sha256": "599cdb2af82a895b1a4f32c4211cb44db1cf7f6ac3640819ea141e94dc16e10c",
+   "width": 1000,
+   "height": 666
+  },
+  "c199819089": {
+   "sha256": "4e187ce556599ed536ce195a1d25c7ad9e1e1f6487622c3352b65d4f2d903990",
+   "width": 1000,
+   "height": 750
+  },
+  "c195845548": {
+   "sha256": "863f00924500df78a8d94d870f3681a07b4393d7175b806b7bb569d2a0d68d33",
+   "width": 1000,
+   "height": 564
+  },
+  "c196078876": {
+   "sha256": "d9b2d8efb55a5ed90c8ce09be8d31fdb494bedd1e23ba931c8e317dbb30e180a",
+   "width": 1000,
+   "height": 739
+  },
+  "c199217190": {
+   "sha256": "228078b6171d5e7449835882ddd9aafe6d5d1a6ae1ec8ef73d7d485f238e5566",
+   "width": 1000,
+   "height": 751
+  },
+  "c199416563": {
+   "sha256": "2c65dbe4d5fd931d90f67e004feb154286b78e97dc95b8e05b53b16cb4b4e5d5",
+   "width": 1000,
+   "height": 750
+  },
+  "c195369346": {
+   "sha256": "02c355661058b1151e6907bd66485716cae35f322b5aec8f52297458a1c6ae1c",
+   "width": 1000,
+   "height": 753
+  },
+  "c195192214": {
+   "sha256": "d99da16c8a080830247f7847b71792f0d7fc377fca056d708840a176c4146686",
+   "width": 1000,
+   "height": 751
+  },
+  "c198887955": {
+   "sha256": "5c5eb873f19ed86827a528f0357489d2d6abbb0facfe04bbb4fe090e6ea10ae6",
+   "width": 1000,
+   "height": 666
+  },
+  "c195968317": {
+   "sha256": "143f2df937908689eac3ec957855a4d1eab7cf1cd40c9bff6c33e62c8b0fef47",
+   "width": 1000,
+   "height": 666
+  },
+  "c198834346": {
+   "sha256": "5b1c0c19adb3f351ca9209e514eae87164f4833cebe949169cf7a254f7ab5105",
+   "width": 1000,
+   "height": 668
+  },
+  "c199502741": {
+   "sha256": "e286b47ebb98888e2abd5f42c0d8fec2138894a257ebb19892e3a803aa37ff1b",
+   "width": 1000,
+   "height": 666
+  },
+  "c195145313": {
+   "sha256": "d179c62665df5563316b6386aa7708e5e8a97fb7d05b403a0877cb6dc7b5c334",
+   "width": 806,
+   "height": 1000
+  },
+  "c197053432": {
+   "sha256": "dcd44d454e9b14602caed16c4e6cbadf5344d2eb7fbb674d57bb322ad60dcdc2",
+   "width": 1000,
+   "height": 666
+  },
+  "c202215846": {
+   "sha256": "e0e1ea7c26f2998f774171107796d164b8700fc00290c36cb7d3efc0c5979db9",
+   "width": 1000,
+   "height": 750
+  },
+  "c201864286": {
+   "sha256": "7cc44eda5445ff94373752e883ca72a97dc4ef5e1432b03e7c35619f97cba63d",
+   "width": 1000,
+   "height": 667
+  },
+  "c202083511": {
+   "sha256": "dec47fe2692bcc96e349052e5bdcc9f2957585dfaaf7ce13b722539eb1ab8122",
+   "width": 1000,
+   "height": 753
+  },
+  "c196896279": {
+   "sha256": "0332ca35c33fcdd79c8780569b0b755acc589d3f37bb1740ecfd0eca789768dc",
+   "width": 1000,
+   "height": 750
+  },
+  "c198083589": {
+   "sha256": "89c7d3ac51def8039542a0f9270a89827ec66e7cb44d1507204b2fa3ff781083",
+   "width": 1000,
+   "height": 666
+  },
+  "c199367228": {
+   "sha256": "543c74a55a9b83d83b7f2bab0e167f9157b71f1e290bde015918a74c173c0cc6",
+   "width": 1000,
+   "height": 666
+  },
+  "c197003320": {
+   "sha256": "8ccb8c0307219a0bfae03619b480a7218ff3bc714d2533f8fc2c08dfb9d7b917",
+   "width": 1000,
+   "height": 750
+  },
+  "c196078298": {
+   "sha256": "cd679ab5d138620e466129ff8601e0575c0093984d53ec2bd35d02064fcce708",
+   "width": 1000,
+   "height": 750
+  },
+  "c195845630": {
+   "sha256": "748d3755f607dfe3dbf059a9cc4c05f459dbeb10060470816c8c6e50fa20e678",
+   "width": 1000,
+   "height": 667
+  },
+  "c195739665": {
+   "sha256": "4853f84b5280fe5f03e434d318ec1aa0b24365effaf28c39e569d010a2e9a8bb",
+   "width": 1000,
+   "height": 666
+  },
+  "c196190001": {
+   "sha256": "f1d37c3fe5a12cf471aedd9063c71cffebb31479e029f93c00878a3f048c8557",
+   "width": 1000,
+   "height": 562
+  },
+  "c198122860": {
+   "sha256": "02ee4f092cfefc13ef9b0bb5fd0c66aaeb24ea618b9914bd2e5d2453a9387ea9",
+   "width": 1000,
+   "height": 619
+  },
+  "c195654402": {
+   "sha256": "ffe6f529ba57b5fc322ed1fd6c729e8ee5b3a5c02a7927bb629938544910883a",
+   "width": 1000,
+   "height": 666
+  },
+  "c196076357": {
+   "sha256": "e377eb5867ead08dff71c64f116801e83acf16c52075acadffc02251a527fc4c",
+   "width": 851,
+   "height": 1000
+  },
+  "c198083588": {
+   "sha256": "205fdf4230a9c163dee41d35f938591dcac83bc14a080c36bce660e5464ba4af",
+   "width": 1000,
+   "height": 666
+  },
+  "c195896312": {
+   "sha256": "4a2ae55a771b43561f4524d34b8d31c60fa1e5990f5dad6581bd701f3ba8b5e6",
+   "width": 1000,
+   "height": 921
+  },
+  "c202492886": {
+   "sha256": "ad3608173d061efc942f344605dd42b1caee4aa63e22a87a58f61c992b96f1d9",
+   "width": 1000,
+   "height": 585
+  },
+  "c198940870": {
+   "sha256": "cc63403d65fa618d6b2a01bc78526a52bad8cd21b1a52c6de0917aa1159efc77",
+   "width": 1000,
+   "height": 750
+  },
+  "c199624223": {
+   "sha256": "16e465ef52016af9c557a76b6f2fbf368dbd1508979e9672d1b7865ba5ea87d5",
+   "width": 1000,
+   "height": 666
+  },
+  "c201471173": {
+   "sha256": "ba963ef9373b106a6b52c9ab9422cc734c774d8f492be0d965ce2c555a96dfa0",
+   "width": 1000,
+   "height": 750
+  },
+  "c196896277": {
+   "sha256": "421cdd76cfffc3858a851a7dd787fbc4222f6c09084a257446af4e8a1d769255",
+   "width": 1000,
+   "height": 750
+  },
+  "c202083524": {
+   "sha256": "29ec9aa38fec0253b0fbe632758916d4f98dae3576c619ab75df5cd3f04c19e6",
+   "width": 1000,
+   "height": 753
+  },
+  "c196974163": {
+   "sha256": "fcadad69b3736fc06d9ed7d033714cbd1548d30f120d464b89400bedc6a56d2b",
+   "width": 1000,
+   "height": 562
+  },
+  "c201831539": {
+   "sha256": "30749f42b6b553ea1b71efd7a6fb0c88616ca49144cf88b0074d2a143bc19fc6",
+   "width": 1000,
+   "height": 750
+  },
+  "c195948215": {
+   "sha256": "93a240f30f4fef78fe81736a9bd4a42670e3d3fbbf69b107fdac7f3646bb2419",
+   "width": 1000,
+   "height": 666
+  },
+  "c195959356": {
+   "sha256": "58c31ecd9cca6bd4549d1ba3ab050da805895f553e8ef978ffb649c15d46723e",
+   "width": 1000,
+   "height": 562
+  },
+  "c201952325": {
+   "sha256": "8b6a382c3f3e1eca36e1bcb28cbaa8fb81d6cd4890fc4f6d62aa219606be35da",
+   "width": 1000,
+   "height": 667
+  },
+  "c202215844": {
+   "sha256": "0aa307020077f49eff4835ffb52d898d8420dd8e0faae41196b4d97a7cc294af",
+   "width": 1000,
+   "height": 750
+  },
+  "c201076379": {
+   "sha256": "8167b81208a94c4a01162305d7e9974283808a3b50c250b11028395e6fb49c71",
+   "width": 1000,
+   "height": 750
+  },
+  "c200393150": {
+   "sha256": "e042633ab434748175d0135831e75cf7a185dada81762651309f4abe111c32a9",
+   "width": 828,
+   "height": 1000
+  },
+  "c199365732": {
+   "sha256": "adf60a280ec919172dc464140891e681b6f1b63438d004ef66126417780dee45",
+   "width": 1000,
+   "height": 750
+  },
+  "c202207468": {
+   "sha256": "154cf9c6d177303e32a5accadaa56ccebec47d055e251ec36817766f587aa1c2",
+   "width": 1000,
+   "height": 666
+  },
+  "c197594818": {
+   "sha256": "2ff145a675880f30e781377ebc90a500b431e7fcdaf8c349e4f779aa0c3d8e1f",
+   "width": 1000,
+   "height": 666
+  },
+  "c199416568": {
+   "sha256": "a71de79759aaac5cc9dcbb739898faf64c680e7cd7f2f470fae679b17fd24e01",
+   "width": 1000,
+   "height": 750
+  },
+  "c199624217": {
+   "sha256": "af0c420f3e22035e2ac0e76c77cee9e0ea7217a6aba3c0e446e9bdb356760c1c",
+   "width": 1000,
+   "height": 667
+  },
+  "c201889926": {
+   "sha256": "6ad09d141b5e6dc77590083aa43afa4aa7e04e171c6aa0611343f37f30b9120b",
+   "width": 1000,
+   "height": 643
+  },
+  "c201952577": {
+   "sha256": "65b50a6ece5b746d7183bf197fc8d611eb8c93970301a31f40e9e74cb81ffe6f",
+   "width": 1000,
+   "height": 562
+  },
+  "c196225353": {
+   "sha256": "b88ccde4da11a2b87c259848d4cb18a510657db9eda390d607fa795eb1fc2825",
+   "width": 1000,
+   "height": 630
+  },
+  "c200650677": {
+   "sha256": "52adeb7decd70d740de46137a568ff524dc72aa8852e0881b840aa6581cac901",
+   "width": 1000,
+   "height": 750
+  },
+  "c199369381": {
+   "sha256": "204a6925d588013cf034cab33aa197a1a3cb7362839eb673bcb51766a4d974fa",
+   "width": 1000,
+   "height": 800
+  },
+  "c196076354": {
+   "sha256": "10f9307b35fdd125d1b35572645db8cf94ca1868ab55a9792e0c3b5928420242",
+   "width": 655,
+   "height": 1000
+  },
+  "c201989551": {
+   "sha256": "67b77a8e5d3093307bdea7248de5074f661db22963c8320a02cbc1981527184f",
+   "width": 1000,
+   "height": 750
+  },
+  "c202019131": {
+   "sha256": "35204dd7cef07c0aaf5a7108fa3be86d875e37c4afe9d444666fbce31d9b28c4",
+   "width": 1000,
+   "height": 562
+  },
+  "c200490125": {
+   "sha256": "e3a92eef36601505244aa185a130030161884238d12c16691c5b7e66de4e91e6",
+   "width": 1000,
+   "height": 655
+  },
+  "c199365734": {
+   "sha256": "299bde809e55d2708ee93a86d7640db1f291f5632ee454906877d7c512f04506",
+   "width": 1000,
+   "height": 750
+  },
+  "c201829510": {
+   "sha256": "b422b440119ee1b4f2622129be5c614337939c2c9cbf39143ff6f83aa2d072ce",
+   "width": 1000,
+   "height": 753
+  },
+  "c199350866": {
+   "sha256": "a676f18998a2abb64d8eacfa7f43ac61e5dbd20e72492c6d6363b171b71a68f1",
+   "width": 1000,
+   "height": 795
+  },
+  "c200989064": {
+   "sha256": "342406ad490c0e034093c1e4c576d3decd71f942c98f9414cd3270b6f3e7f4cc",
+   "width": 1000,
+   "height": 666
+  },
+  "c196208559": {
+   "sha256": "f2ec2afa43ae4a6c09c7cc0d5c5615140999dca413f9b4ff1364e5b5b8f03861",
+   "width": 667,
+   "height": 1000
+  },
+  "c199350848": {
+   "sha256": "758edf04dbefe45aac19eb2efa8719e46123f57873d4147f47df0a563661135e",
+   "width": 1000,
+   "height": 720
+  },
+  "c198913625": {
+   "sha256": "95b1323b4a89d0476997629709b3382d0f4cfbbaecc2885e2bc31921e82ff7fc",
+   "width": 1000,
+   "height": 666
+  },
+  "c195948220": {
+   "sha256": "60e24b3265432bcf8bbeca491e0546b503a1cdb626368076a693b33790db77b0",
+   "width": 1000,
+   "height": 666
+  },
+  "c196055397": {
+   "sha256": "fb5a324bef6149c6d5a594404c03a24ebf6b4e744b28243f76ee0c6f93ee349e",
+   "width": 1000,
+   "height": 750
+  },
+  "c196190038": {
+   "sha256": "b59b19e563c9d4a28d3374f204a88faa0ec84a4bf727fd7b10124e5598a044d7",
+   "width": 1000,
+   "height": 562
+  },
+  "c195739675": {
+   "sha256": "eb59536759b9f43919a1f480535a5676e9234dfc5f5797cac35a955f81f688bf",
+   "width": 667,
+   "height": 1000
+  },
+  "c200989065": {
+   "sha256": "82905630b5692c8d4c9929ca78ec4589104ec9c17d1c9242507d270797e2c889",
+   "width": 1000,
+   "height": 666
+  },
+  "c198122865": {
+   "sha256": "55775c4b2e0cdef466a778593d87817a3eaa52ebdf8fec1fe0cf8193f81de39d",
+   "width": 1000,
+   "height": 576
+  },
+  "c198921857": {
+   "sha256": "139ac365841be35f563fa728dced003d2516a2c7e8059865d44c400c85578d0a",
+   "width": 1000,
+   "height": 750
+  },
+  "c202188632": {
+   "sha256": "7e4f1abdc0041ee43cd6690f61eba75428af8f2f1adb4fbdfc4ad3d1c0b36e08",
+   "width": 1000,
+   "height": 528
+  },
+  "c196197522": {
+   "sha256": "b1d3dfc4d890124118d33a9cfa2499fcf20a2f93559e2164d4fc4947e81e9b8f",
+   "width": 1000,
+   "height": 805
+  },
+  "c202188714": {
+   "sha256": "b343cd1966971ab02b1361f89d03bfb1e1d4a5fee933ac0060def04de6e884c5",
+   "width": 995,
+   "height": 1000
+  },
+  "c202298967": {
+   "sha256": "d7f63ad8fc76ca54ec8240e2853b3b8ee9abf51c485faeb72864508251a460ab",
+   "width": 1000,
+   "height": 750
+  },
+  "c195932245": {
+   "sha256": "c0dc98a99ca5aca073f50fa1914e2390da0481ad8322a683f02878e528f66841",
+   "width": 1000,
+   "height": 562
+  },
+  "c198887954": {
+   "sha256": "b26aa25039bcf363462eda27e30db45daaaf6e8143f1b4a5bc6bd9ceea491a70",
+   "width": 1000,
+   "height": 666
+  },
+  "c196994811": {
+   "sha256": "995d516d4665991712b85f0686454cd6548e7931750253ecc2884bfc344d9187",
+   "width": 1000,
+   "height": 750
+  },
+  "c197994808": {
+   "sha256": "473dd21b35924c24577e1426fc38d7c37524c45a4a5367a7476f2f12b76bb491",
+   "width": 1000,
+   "height": 756
+  },
+  "c202028381": {
+   "sha256": "990664a816f30c055795c86b71f38348450ec9c03a0400ae04274fb4a65ca273",
+   "width": 1000,
+   "height": 750
+  },
+  "c195344184": {
+   "sha256": "0e379a7c71f8a5c96c39f8a2c31a4d41bcb2fb05a142e5803c6e0b3cb3c58695",
+   "width": 1000,
+   "height": 666
+  },
+  "c201803330": {
+   "sha256": "f83dc1ceda02ce8675b199452447e25aab743260871a03602893b7f854d7e5d1",
+   "width": 1000,
+   "height": 750
+  },
+  "c196974259": {
+   "sha256": "247ba417d6abc7077dcc2ca42690e10bd9b4de27ca55a5721ad4466bcd5b5616",
+   "width": 1000,
+   "height": 562
+  },
+  "c196986377": {
+   "sha256": "bed8c6403a4ecb783bc7972d32ed26bc83fa904c2797ce899bd7bb6e25f84b70",
+   "width": 1000,
+   "height": 562
+  },
+  "c198414118": {
+   "sha256": "aa0ad071e9e404963bf403278be0be415c1049d82160900328d537d3a4ee5225",
+   "width": 1000,
+   "height": 750
+  },
+  "c195343013": {
+   "sha256": "842995cfe71ffabb769ae98f7e6823f704cf4e87dc077eb962eba879a5baca30",
+   "width": 1000,
+   "height": 666
+  },
+  "c202028370": {
+   "sha256": "952f4de0b42b5604d4ec9e308281affe5c5fc0feae8cfcda497b4dc61bb45f42",
+   "width": 1000,
+   "height": 750
+  },
+  "c195477518": {
+   "sha256": "f85a24685594277c40d36dc7f1357f2afb60de3f212b0641c8efbf07c5f43565",
+   "width": 1000,
+   "height": 750
+  },
+  "c201076304": {
+   "sha256": "b5f52a23af775e3ffb8ee2dcbcf7193965c7294b40c8ecbc419695cb27cabab9",
+   "width": 1000,
+   "height": 750
+  },
+  "c195654222": {
+   "sha256": "7d9cbf4ef35e111860c53af4e169a16f1838eda674f7cc04887f6214631bdc28",
+   "width": 1000,
+   "height": 666
+  },
+  "c195369345": {
+   "sha256": "8b51dcd08a36b7b613ba9e40f6ae30a1dabec4ee1df50d60b6c964bda0d328c3",
+   "width": 1000,
+   "height": 753
+  },
+  "c202298977": {
+   "sha256": "10187381e8a638a07c0b4e5d5cf3d5967b87af222c9464e5335c0dc52d28ffe7",
+   "width": 1000,
+   "height": 750
+  },
+  "c196995648": {
+   "sha256": "ad30a215e936a33b8c30bbbbc50b60d557e6734ea301a96d58cca7aad413e6be",
+   "width": 1000,
+   "height": 750
+  },
+  "c197112106": {
+   "sha256": "e49b43cece77a502f37f29f77d3b4fe4db940afc2d8ca5ff55456df04a49e0b8",
+   "width": 1000,
+   "height": 753
+  },
+  "c196196737": {
+   "sha256": "de104d3d81ff9b64163a6e4b4c6bc6eb68b650faf42e9560317509577bfdcab4",
+   "width": 1000,
+   "height": 793
+  },
+  "c196072664": {
+   "sha256": "d0d9cd5e733c18cf5e8571c26949fd08870e6842cd9f883bb27f6bd7105c3155",
+   "width": 1000,
+   "height": 666
+  },
+  "c195626811": {
+   "sha256": "89c9ba738786e2b1ee781a35ce702d8216d490e0f2f00df895ce20a9b77d8563",
+   "width": 1000,
+   "height": 562
+  },
+  "c198680034": {
+   "sha256": "2c85b0c155782285315c512c7c4b972741319f789363a956f8c0d7b281c78e9d",
+   "width": 1000,
+   "height": 666
+  },
+  "c195646531": {
+   "sha256": "20b8b9459dfa92b2bf0a5dedac12c4cd2435085fdf8f78cf7e49cc0a73b6796b",
+   "width": 1000,
+   "height": 750
+  },
+  "c199699348": {
+   "sha256": "d81f29fda31f1e759c357943993ee2c2b1486fcafb8263570464ba1be3dc9e32",
+   "width": 751,
+   "height": 1000
+  },
+  "c200650673": {
+   "sha256": "25347b2422fcbf14c91028cbbd2303c2e6e563450531f09263f158b556cf898a",
+   "width": 1000,
+   "height": 750
+  },
+  "c199310256": {
+   "sha256": "63aa6bf62adcd2e61cca6e8847e29eb2bf729390b73a937176a33cadcddd5c53",
+   "width": 1000,
+   "height": 666
+  },
+  "c197003004": {
+   "sha256": "978f30bb06002a4b0375bc7f9f7254b02d397e73d66af153c9b44d3e76c933a2",
+   "width": 1000,
+   "height": 750
+  },
+  "c199122140": {
+   "sha256": "23d64dc4bd3af91fecba261bffef585c4616e084fb3a4616c6af03b45352e2cb",
+   "width": 1000,
+   "height": 500
+  },
+  "c202151087": {
+   "sha256": "0435a9542ea07df1c1eb673c2cf524763431c83904f66a2c014b6ea72acc0562",
+   "width": 1000,
+   "height": 750
+  },
+  "c198414122": {
+   "sha256": "a1ce81bc7176d6c6e35612d8ef57942fbb07a9f1f84b1981846b0f0752e9c298",
+   "width": 1000,
+   "height": 750
+  },
+  "c202173777": {
+   "sha256": "7d011e7e4f43f0a1ab16b7b0d3d87ff12b71e38669b837b332e229ed032b5c66",
+   "width": 1000,
+   "height": 615
+  },
+  "c196208574": {
+   "sha256": "e232dcf515b1f7d3fa4e04131cea9467407ab1dfd3a72b9bd77637a5062d78a9",
+   "width": 1000,
+   "height": 666
+  }
+ },
+ "revision": "r2",
+ "system": "Today's date is 8 November 2026.",
+ "questions": {
+  "qm": "Does the photo show what the caption describes?",
+  "qa": "Is the caption accurate?"
+ },
+ "main_from": 6,
+ "measure": "no"
+}

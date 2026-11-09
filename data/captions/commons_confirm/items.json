@@ -1,0 +1,1262 @@
+[
+ {
+  "item_id": "c001",
+  "photo": "c197610708",
+  "other_photo": "c198044870",
+  "true_caption": "Photograph shows a carnival costume festival in Edmonton, Canada on 8 August 2026.",
+  "false_caption": "Photograph shows a carnival costume festival in Llantood, Wales, United Kingdom on 8 August 2026.",
+  "changed": "place",
+  "true_value": "Edmonton, Canada",
+  "false_value": "Llantood, Wales, United Kingdom",
+  "group": "festival",
+  "kind": "Caribbean carnival festival",
+  "sources": {
+   "c197610708": 197610708,
+   "c198044870": 198044870
+  },
+  "checkable": true,
+  "text_in_photo": false,
+  "taken": "2026-08-08",
+  "scheduled": null
+ },
+ {
+  "item_id": "c002",
+  "photo": "c198547797",
+  "other_photo": "c197610709",
+  "true_caption": "Photograph shows a temple offering festival in Taipei, Taiwan on 27 August 2026.",
+  "false_caption": "Photograph shows a temple offering festival in Taipei, Taiwan on 20 September 2026.",
+  "changed": "date",
+  "true_value": "27 August 2026",
+  "false_value": "20 September 2026",
+  "group": "festival",
+  "kind": "temple ghost festival",
+  "sources": {
+   "c198547797": 198547797,
+   "c197610709": 197610709
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-08-27",
+  "scheduled": true
+ },
+ {
+  "item_id": "c003",
+  "photo": "c200091714",
+  "other_photo": "c195127527",
+  "true_caption": "Photograph shows an outdoor festival in Porto Alegre, Brazil on 20 September 2026.",
+  "false_caption": "Photograph shows a tall ship gathering in Porto Alegre, Brazil on 20 September 2026.",
+  "changed": "event",
+  "true_value": "an outdoor festival",
+  "false_value": "a tall ship gathering",
+  "group": "festival",
+  "kind": "gaucho tradition festival camp",
+  "sources": {
+   "c200091714": 200091714,
+   "c195127527": 195127527
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-09-20",
+  "scheduled": null
+ },
+ {
+  "item_id": "c004",
+  "photo": "c200527139",
+  "other_photo": "c201546174",
+  "true_caption": "Photograph shows a film festival in Milan, Italy on 19 September 2026.",
+  "false_caption": "Photograph shows a film festival in Barcelona, Spain on 19 September 2026.",
+  "changed": "place",
+  "true_value": "Milan, Italy",
+  "false_value": "Barcelona, Spain",
+  "group": "festival",
+  "kind": "film festival",
+  "sources": {
+   "c200527139": 200527139,
+   "c201546174": 201546174
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-09-19",
+  "scheduled": null
+ },
+ {
+  "item_id": "c005",
+  "photo": "c201546328",
+  "other_photo": "c200527162",
+  "true_caption": "Photograph shows a festival procession of giant figures in Barcelona, Spain on 24 September 2026.",
+  "false_caption": "Photograph shows a festival procession of giant figures in Barcelona, Spain on 6 August 2026.",
+  "changed": "date",
+  "true_value": "24 September 2026",
+  "false_value": "6 August 2026",
+  "group": "festival",
+  "kind": "city festival procession",
+  "sources": {
+   "c201546328": 201546328,
+   "c200527162": 200527162
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-09-24",
+  "scheduled": true
+ },
+ {
+  "item_id": "c006",
+  "photo": "c197093988",
+  "other_photo": "c198548268",
+  "true_caption": "Photograph shows a tall ship gathering in Rostock, Germany on 6 August 2026.",
+  "false_caption": "Photograph shows a carnival costume festival in Rostock, Germany on 6 August 2026.",
+  "changed": "event",
+  "true_value": "a tall ship gathering",
+  "false_value": "a carnival costume festival",
+  "group": "festival",
+  "kind": "tall ship festival",
+  "sources": {
+   "c197093988": 197093988,
+   "c198548268": 198548268
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-06",
+  "scheduled": null
+ },
+ {
+  "item_id": "c007",
+  "photo": "c195127512",
+  "other_photo": "c197094001",
+  "true_caption": "Photograph shows an outdoor folk festival in Tyumen, Russia on 4 July 2026.",
+  "false_caption": "Photograph shows an outdoor folk festival in Milan, Italy on 4 July 2026.",
+  "changed": "place",
+  "true_value": "Tyumen, Russia",
+  "false_value": "Milan, Italy",
+  "group": "festival",
+  "kind": "folk culture festival",
+  "sources": {
+   "c195127512": 195127512,
+   "c197094001": 197094001
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-07-04",
+  "scheduled": null
+ },
+ {
+  "item_id": "c008",
+  "photo": "c198032016",
+  "other_photo": "c202016522",
+  "true_caption": "Photograph shows a decorated street festival in Barcelona, Spain on 15 August 2026.",
+  "false_caption": "Photograph shows a decorated street festival in Barcelona, Spain on 4 July 2026.",
+  "changed": "date",
+  "true_value": "15 August 2026",
+  "false_value": "4 July 2026",
+  "group": "festival",
+  "kind": "decorated-streets neighbourhood festival",
+  "sources": {
+   "c198032016": 198032016,
+   "c202016522": 202016522
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-08-15",
+  "scheduled": true
+ },
+ {
+  "item_id": "c009",
+  "photo": "c202016013",
+  "other_photo": "c197057783",
+  "true_caption": "Photograph shows an outdoor street fair in Taipei, Taiwan on 18 October 2026.",
+  "false_caption": "Photograph shows a carnival costume festival in Taipei, Taiwan on 18 October 2026.",
+  "changed": "event",
+  "true_value": "an outdoor street fair",
+  "false_value": "a carnival costume festival",
+  "group": "festival",
+  "kind": "electronics district street fair",
+  "sources": {
+   "c202016013": 202016013,
+   "c197057783": 197057783
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-10-18",
+  "scheduled": null
+ },
+ {
+  "item_id": "c010",
+  "photo": "c198030902",
+  "other_photo": "c200091717",
+  "true_caption": "Photograph shows an outdoor summer festival in Llantood, Wales, United Kingdom on 7 August 2026.",
+  "false_caption": "Photograph shows an outdoor summer festival in Taipei, Taiwan on 7 August 2026.",
+  "changed": "place",
+  "true_value": "Llantood, Wales, United Kingdom",
+  "false_value": "Taipei, Taiwan",
+  "group": "festival",
+  "kind": "Welsh cultural festival",
+  "sources": {
+   "c198030902": 198030902,
+   "c200091717": 200091717
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-07",
+  "scheduled": null
+ },
+ {
+  "item_id": "c011",
+  "photo": "c197994937",
+  "other_photo": "c201963679",
+  "true_caption": "Photograph shows an open-air music festival in Moffans-et-Vacheresse, France on 21 August 2026.",
+  "false_caption": "Photograph shows an open-air music festival in Moffans-et-Vacheresse, France on 11 July 2026.",
+  "changed": "date",
+  "true_value": "21 August 2026",
+  "false_value": "11 July 2026",
+  "group": "music",
+  "kind": "open-air music festival",
+  "sources": {
+   "c197994937": 197994937,
+   "c201963679": 201963679
+  },
+  "checkable": false,
+  "text_in_photo": false,
+  "taken": "2026-08-21",
+  "scheduled": false
+ },
+ {
+  "item_id": "c012",
+  "photo": "c198046601",
+  "other_photo": "c197586823",
+  "true_caption": "Photograph shows an open-air rock concert in Schwerin, Germany on 22 August 2026.",
+  "false_caption": "Photograph shows a street protest march in Schwerin, Germany on 22 August 2026.",
+  "changed": "event",
+  "true_value": "an open-air rock concert",
+  "false_value": "a street protest march",
+  "group": "music",
+  "kind": "open-air rock festival",
+  "sources": {
+   "c198046601": 198046601,
+   "c197586823": 197586823
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-22",
+  "scheduled": null
+ },
+ {
+  "item_id": "c013",
+  "photo": "c195861896",
+  "other_photo": "c198990398",
+  "true_caption": "Photograph shows a stadium rock concert in London, United Kingdom on 11 July 2026.",
+  "false_caption": "Photograph shows a stadium rock concert in Los Angeles, California, United States on 11 July 2026.",
+  "changed": "place",
+  "true_value": "London, United Kingdom",
+  "false_value": "Los Angeles, California, United States",
+  "group": "music",
+  "kind": "stadium rock concert",
+  "sources": {
+   "c195861896": 195861896,
+   "c198990398": 198990398
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-07-11",
+  "scheduled": null
+ },
+ {
+  "item_id": "c014",
+  "photo": "c202380422",
+  "other_photo": "c195951878",
+  "true_caption": "Photograph shows an indoor pop concert in Esch-sur-Alzette, Luxembourg on 27 October 2026.",
+  "false_caption": "Photograph shows an indoor pop concert in Esch-sur-Alzette, Luxembourg on 7 August 2026.",
+  "changed": "date",
+  "true_value": "27 October 2026",
+  "false_value": "7 August 2026",
+  "group": "music",
+  "kind": "pop concert",
+  "sources": {
+   "c202380422": 202380422,
+   "c195951878": 195951878
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-10-27",
+  "scheduled": false
+ },
+ {
+  "item_id": "c015",
+  "photo": "c202559103",
+  "other_photo": "c195857382",
+  "true_caption": "Photograph shows an indoor rock concert in Durant, Oklahoma, United States on 11 October 2026.",
+  "false_caption": "Photograph shows an open-air concert in Durant, Oklahoma, United States on 11 October 2026.",
+  "changed": "event",
+  "true_value": "an indoor rock concert",
+  "false_value": "an open-air concert",
+  "group": "music",
+  "kind": "rock concert",
+  "sources": {
+   "c202559103": 202559103,
+   "c195857382": 195857382
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-10-11",
+  "scheduled": null
+ },
+ {
+  "item_id": "c016",
+  "photo": "c198717023",
+  "other_photo": "c202559104",
+  "true_caption": "Photograph shows an open-air concert in Brussels, Belgium on 30 August 2026.",
+  "false_caption": "Photograph shows an open-air concert in Vurberk, Slovenia on 30 August 2026.",
+  "changed": "place",
+  "true_value": "Brussels, Belgium",
+  "false_value": "Vurberk, Slovenia",
+  "group": "music",
+  "kind": "open-air concert",
+  "sources": {
+   "c198717023": 198717023,
+   "c202559104": 202559104
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-30",
+  "scheduled": null
+ },
+ {
+  "item_id": "c017",
+  "photo": "c201963665",
+  "other_photo": "c202379535",
+  "true_caption": "Photograph shows an open-air music festival in Taichung, Taiwan on 18 October 2026.",
+  "false_caption": "Photograph shows an open-air music festival in Taichung, Taiwan on 21 August 2026.",
+  "changed": "date",
+  "true_value": "18 October 2026",
+  "false_value": "21 August 2026",
+  "group": "music",
+  "kind": "jazz festival",
+  "sources": {
+   "c201963665": 201963665,
+   "c202379535": 202379535
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-10-18",
+  "scheduled": true
+ },
+ {
+  "item_id": "c018",
+  "photo": "c198990406",
+  "other_photo": "c195861871",
+  "true_caption": "Photograph shows a live band concert in Vrhnika, Slovenia on 5 September 2026.",
+  "false_caption": "Photograph shows an open-air circus show in Vrhnika, Slovenia on 5 September 2026.",
+  "changed": "event",
+  "true_value": "a live band concert",
+  "false_value": "an open-air circus show",
+  "group": "music",
+  "kind": "jazz fusion concert",
+  "sources": {
+   "c198990406": 198990406,
+   "c195861871": 195861871
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-09-05",
+  "scheduled": null
+ },
+ {
+  "item_id": "c020",
+  "photo": "c195951877",
+  "other_photo": "c198028193",
+  "true_caption": "Photograph shows an open-air music festival in Upton upon Severn, United Kingdom on 19 July 2026.",
+  "false_caption": "Photograph shows an open-air music festival in Upton upon Severn, United Kingdom on 22 August 2026.",
+  "changed": "date",
+  "true_value": "19 July 2026",
+  "false_value": "22 August 2026",
+  "group": "music",
+  "kind": "blues festival",
+  "sources": {
+   "c195951877": 195951877,
+   "c198028193": 198028193
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-07-19",
+  "scheduled": true
+ },
+ {
+  "item_id": "c021",
+  "photo": "c198027556",
+  "other_photo": "c197994959",
+  "true_caption": "Photograph shows a live music concert in Lorient, France on 7 August 2026.",
+  "false_caption": "Photograph shows a multi-sport games opening ceremony in Lorient, France on 7 August 2026.",
+  "changed": "event",
+  "true_value": "a live music concert",
+  "false_value": "a multi-sport games opening ceremony",
+  "group": "music",
+  "kind": "Celtic music festival",
+  "sources": {
+   "c198027556": 198027556,
+   "c197994959": 197994959
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-07",
+  "scheduled": null
+ },
+ {
+  "item_id": "c022",
+  "photo": "c198397200",
+  "other_photo": "c198717003",
+  "true_caption": "Photograph shows a choir concert in Vurberk, Slovenia on 28 August 2026.",
+  "false_caption": "Photograph shows a choir concert in Vrhnika, Slovenia on 28 August 2026.",
+  "changed": "place",
+  "true_value": "Vurberk, Slovenia",
+  "false_value": "Vrhnika, Slovenia",
+  "group": "music",
+  "kind": "choir concert",
+  "sources": {
+   "c198397200": 198397200,
+   "c198717003": 198717003
+  },
+  "checkable": false,
+  "text_in_photo": false,
+  "taken": "2026-08-28",
+  "scheduled": null
+ },
+ {
+  "item_id": "c023",
+  "photo": "c199302734",
+  "other_photo": "c202559104",
+  "true_caption": "Photograph shows an indoor rock concert in Los Angeles, California, United States on 22 August 2026.",
+  "false_caption": "Photograph shows an indoor rock concert in Los Angeles, California, United States on 8 July 2026.",
+  "changed": "date",
+  "true_value": "22 August 2026",
+  "false_value": "8 July 2026",
+  "group": "music",
+  "kind": "rock concert",
+  "sources": {
+   "c199302734": 199302734,
+   "c202559104": 202559104
+  },
+  "checkable": false,
+  "text_in_photo": false,
+  "taken": "2026-08-22",
+  "scheduled": false
+ },
+ {
+  "item_id": "c024",
+  "photo": "c197587268",
+  "other_photo": "c198046548",
+  "true_caption": "Photograph shows an open-air concert in Skodborg, Denmark on 15 August 2026.",
+  "false_caption": "Photograph shows an outdoor street fair in Skodborg, Denmark on 15 August 2026.",
+  "changed": "event",
+  "true_value": "an open-air concert",
+  "false_value": "an outdoor street fair",
+  "group": "music",
+  "kind": "open-air rock festival",
+  "sources": {
+   "c197587268": 197587268,
+   "c198046548": 198046548
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-15",
+  "scheduled": null
+ },
+ {
+  "item_id": "c025",
+  "photo": "c195857384",
+  "other_photo": "c199302796",
+  "true_caption": "Photograph shows a live band concert in Budapest, Hungary on 8 July 2026.",
+  "false_caption": "Photograph shows a live band concert in Durant, Oklahoma, United States on 8 July 2026.",
+  "changed": "place",
+  "true_value": "Budapest, Hungary",
+  "false_value": "Durant, Oklahoma, United States",
+  "group": "music",
+  "kind": "rock concert",
+  "sources": {
+   "c195857384": 195857384,
+   "c199302796": 199302796
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-07-08",
+  "scheduled": null
+ },
+ {
+  "item_id": "c026",
+  "photo": "c202749485",
+  "other_photo": "c196522986",
+  "true_caption": "Photograph shows a halloween costume parade in New York City, New York, United States on 31 October 2026.",
+  "false_caption": "Photograph shows a small-town street parade in New York City, New York, United States on 31 October 2026.",
+  "changed": "event",
+  "true_value": "a halloween costume parade",
+  "false_value": "a small-town street parade",
+  "group": "parade",
+  "kind": "Halloween parade",
+  "sources": {
+   "c202749485": 202749485,
+   "c196522986": 196522986
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-10-31",
+  "scheduled": null
+ },
+ {
+  "item_id": "c027",
+  "photo": "c199129377",
+  "other_photo": "c196522986",
+  "true_caption": "Photograph shows a carnival street parade in New York City, New York, United States on 7 September 2026.",
+  "false_caption": "Photograph shows a carnival street parade in Brattleboro, Vermont, United States on 7 September 2026.",
+  "changed": "place",
+  "true_value": "New York City, New York, United States",
+  "false_value": "Brattleboro, Vermont, United States",
+  "group": "parade",
+  "kind": "carnival parade",
+  "sources": {
+   "c199129377": 199129377,
+   "c196522986": 196522986
+  },
+  "checkable": false,
+  "text_in_photo": false,
+  "taken": "2026-09-07",
+  "scheduled": null
+ },
+ {
+  "item_id": "c028",
+  "photo": "c196522982",
+  "other_photo": "c199129376",
+  "true_caption": "Photograph shows a small-town street parade in Brattleboro, Vermont, United States on 4 July 2026.",
+  "false_caption": "Photograph shows a small-town street parade in Brattleboro, Vermont, United States on 31 October 2026.",
+  "changed": "date",
+  "true_value": "4 July 2026",
+  "false_value": "31 October 2026",
+  "group": "parade",
+  "kind": "Independence Day street parade",
+  "sources": {
+   "c196522982": 196522982,
+   "c199129376": 199129376
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-07-04",
+  "scheduled": true
+ },
+ {
+  "item_id": "c029",
+  "photo": "c202692188",
+  "other_photo": "c199452815",
+  "true_caption": "Photograph shows a curling competition in Ostrava, Czech Republic on 1 November 2026.",
+  "false_caption": "Photograph shows a curling competition in Suzuka, Japan on 1 November 2026.",
+  "changed": "place",
+  "true_value": "Ostrava, Czech Republic",
+  "false_value": "Suzuka, Japan",
+  "group": "sport",
+  "kind": "curling championship",
+  "sources": {
+   "c202692188": 202692188,
+   "c199452815": 199452815
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-11-01",
+  "scheduled": null
+ },
+ {
+  "item_id": "c030",
+  "photo": "c196799081",
+  "other_photo": "c202918584",
+  "true_caption": "Photograph shows a car rally in Korpilahti, Finland on 1 August 2026.",
+  "false_caption": "Photograph shows a car rally in Korpilahti, Finland on 18 October 2026.",
+  "changed": "date",
+  "true_value": "1 August 2026",
+  "false_value": "18 October 2026",
+  "group": "sport",
+  "kind": "rally",
+  "sources": {
+   "c196799081": 196799081,
+   "c202918584": 202918584
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-01",
+  "scheduled": true
+ },
+ {
+  "item_id": "c031",
+  "photo": "c196284824",
+  "other_photo": "c200586652",
+  "true_caption": "Photograph shows a touring car race in Thruxton, United Kingdom on 26 July 2026.",
+  "false_caption": "Photograph shows a classic car gathering in Thruxton, United Kingdom on 26 July 2026.",
+  "changed": "event",
+  "true_value": "a touring car race",
+  "false_value": "a classic car gathering",
+  "group": "sport",
+  "kind": "touring car race",
+  "sources": {
+   "c196284824": 196284824,
+   "c200586652": 200586652
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-07-26",
+  "scheduled": null
+ },
+ {
+  "item_id": "c032",
+  "photo": "c202081326",
+  "other_photo": "c202586970",
+  "true_caption": "Photograph shows a football match in Baku, Azerbaijan on 20 October 2026.",
+  "false_caption": "Photograph shows a football match in Cary, North Carolina, United States on 20 October 2026.",
+  "changed": "place",
+  "true_value": "Baku, Azerbaijan",
+  "false_value": "Cary, North Carolina, United States",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c202081326": 202081326,
+   "c202586970": 202586970
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-10-20",
+  "scheduled": null
+ },
+ {
+  "item_id": "c033",
+  "photo": "c200337346",
+  "other_photo": "c198836796",
+  "true_caption": "Photograph shows a street circuit motor race in Baku, Azerbaijan on 27 September 2026.",
+  "false_caption": "Photograph shows a street circuit motor race in Baku, Azerbaijan on 1 November 2026.",
+  "changed": "date",
+  "true_value": "27 September 2026",
+  "false_value": "1 November 2026",
+  "group": "sport",
+  "kind": "Formula One street race",
+  "sources": {
+   "c200337346": 200337346,
+   "c198836796": 198836796
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-09-27",
+  "scheduled": true
+ },
+ {
+  "item_id": "c035",
+  "photo": "c195368042",
+  "other_photo": "c196285357",
+  "true_caption": "Photograph shows a touring car race in Nuremberg, Germany on 3 July 2026.",
+  "false_caption": "Photograph shows a touring car race in Silverstone, United Kingdom on 3 July 2026.",
+  "changed": "place",
+  "true_value": "Nuremberg, Germany",
+  "false_value": "Silverstone, United Kingdom",
+  "group": "sport",
+  "kind": "touring car race",
+  "sources": {
+   "c195368042": 195368042,
+   "c196285357": 196285357
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-07-03",
+  "scheduled": null
+ },
+ {
+  "item_id": "c036",
+  "photo": "c197089241",
+  "other_photo": "c202586970",
+  "true_caption": "Photograph shows a classic car gathering in Belfort, France on 8 August 2026.",
+  "false_caption": "Photograph shows a classic car gathering in Belfort, France on 12 July 2026.",
+  "changed": "date",
+  "true_value": "8 August 2026",
+  "false_value": "12 July 2026",
+  "group": "sport",
+  "kind": "historic car hill climb event",
+  "sources": {
+   "c197089241": 197089241,
+   "c202586970": 202586970
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-08-08",
+  "scheduled": true
+ },
+ {
+  "item_id": "c037",
+  "photo": "c196828611",
+  "other_photo": "c195368032",
+  "true_caption": "Photograph shows an open-water swimming race in Paris, France on 4 August 2026.",
+  "false_caption": "Photograph shows a football match in Paris, France on 4 August 2026.",
+  "changed": "event",
+  "true_value": "an open-water swimming race",
+  "false_value": "a football match",
+  "group": "sport",
+  "kind": "open water swimming race",
+  "sources": {
+   "c196828611": 196828611,
+   "c195368032": 195368032
+  },
+  "checkable": true,
+  "text_in_photo": false,
+  "taken": "2026-08-04",
+  "scheduled": null
+ },
+ {
+  "item_id": "c038",
+  "photo": "c202116962",
+  "other_photo": "c197009908",
+  "true_caption": "Photograph shows a football match in Wellington, New Zealand on 18 October 2026.",
+  "false_caption": "Photograph shows a football match in Montbéliard, France on 18 October 2026.",
+  "changed": "place",
+  "true_value": "Wellington, New Zealand",
+  "false_value": "Montbéliard, France",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c202116962": 202116962,
+   "c197009908": 197009908
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-10-18",
+  "scheduled": null
+ },
+ {
+  "item_id": "c039",
+  "photo": "c200587413",
+  "other_photo": "c196285357",
+  "true_caption": "Photograph shows a touring car race in Silverstone, United Kingdom on 27 September 2026.",
+  "false_caption": "Photograph shows a touring car race in Silverstone, United Kingdom on 3 July 2026.",
+  "changed": "date",
+  "true_value": "27 September 2026",
+  "false_value": "3 July 2026",
+  "group": "sport",
+  "kind": "touring car race",
+  "sources": {
+   "c200587413": 200587413,
+   "c196285357": 196285357
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-09-27",
+  "scheduled": true
+ },
+ {
+  "item_id": "c041",
+  "photo": "c202789980",
+  "other_photo": "c197512780",
+  "true_caption": "Photograph shows a football match in Wellington, New Zealand on 25 October 2026.",
+  "false_caption": "Photograph shows a football match in Canberra, Australia on 25 October 2026.",
+  "changed": "place",
+  "true_value": "Wellington, New Zealand",
+  "false_value": "Canberra, Australia",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c202789980": 202789980,
+   "c197512780": 197512780
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-10-25",
+  "scheduled": null
+ },
+ {
+  "item_id": "c042",
+  "photo": "c202480448",
+  "other_photo": "c202692184",
+  "true_caption": "Photograph shows a roller-ski biathlon race in Munich, Germany on 18 October 2026.",
+  "false_caption": "Photograph shows a roller-ski biathlon race in Munich, Germany on 25 October 2026.",
+  "changed": "date",
+  "true_value": "18 October 2026",
+  "false_value": "25 October 2026",
+  "group": "sport",
+  "kind": "roller-ski biathlon race",
+  "sources": {
+   "c202480448": 202480448,
+   "c202692184": 202692184
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-10-18",
+  "scheduled": true
+ },
+ {
+  "item_id": "c043",
+  "photo": "c197512811",
+  "other_photo": "c202081283",
+  "true_caption": "Photograph shows a football match in Canberra, Australia on 15 August 2026.",
+  "false_caption": "Photograph shows a road cycling time trial in Canberra, Australia on 15 August 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "a road cycling time trial",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c197512811": 197512811,
+   "c202081283": 202081283
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-15",
+  "scheduled": null
+ },
+ {
+  "item_id": "c044",
+  "photo": "c202583369",
+  "other_photo": "c199540897",
+  "true_caption": "Photograph shows a football match in Shamakhi, Azerbaijan on 1 November 2026.",
+  "false_caption": "Photograph shows a football match in Grödig, Austria on 1 November 2026.",
+  "changed": "place",
+  "true_value": "Shamakhi, Azerbaijan",
+  "false_value": "Grödig, Austria",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c202583369": 202583369,
+   "c199540897": 199540897
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-11-01",
+  "scheduled": null
+ },
+ {
+  "item_id": "c045",
+  "photo": "c202954281",
+  "other_photo": "c200337278",
+  "true_caption": "Photograph shows a sports car race in Suzuka, Japan on 24 August 2026.",
+  "false_caption": "Photograph shows a sports car race in Suzuka, Japan on 8 August 2026.",
+  "changed": "date",
+  "true_value": "24 August 2026",
+  "false_value": "8 August 2026",
+  "group": "sport",
+  "kind": "GT sports car race",
+  "sources": {
+   "c202954281": 202954281,
+   "c200337278": 200337278
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-08-24",
+  "scheduled": true
+ },
+ {
+  "item_id": "c047",
+  "photo": "c195581338",
+  "other_photo": "c198341143",
+  "true_caption": "Photograph shows a football match in Cary, North Carolina, United States on 11 July 2026.",
+  "false_caption": "Photograph shows a football match in Portland, Oregon, United States on 11 July 2026.",
+  "changed": "place",
+  "true_value": "Cary, North Carolina, United States",
+  "false_value": "Portland, Oregon, United States",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c195581338": 195581338,
+   "c198341143": 198341143
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-07-11",
+  "scheduled": null
+ },
+ {
+  "item_id": "c048",
+  "photo": "c199540898",
+  "other_photo": "c197009908",
+  "true_caption": "Photograph shows a football match in Portland, Oregon, United States on 22 August 2026.",
+  "false_caption": "Photograph shows a football match in Portland, Oregon, United States on 8 August 2026.",
+  "changed": "date",
+  "true_value": "22 August 2026",
+  "false_value": "8 August 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c199540898": 199540898,
+   "c197009908": 197009908
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-08-22",
+  "scheduled": true
+ },
+ {
+  "item_id": "c050",
+  "photo": "c199539923",
+  "other_photo": "c197512780",
+  "true_caption": "Photograph shows a football match in Portland, Oregon, United States on 24 July 2026.",
+  "false_caption": "Photograph shows a football match in Cary, North Carolina, United States on 24 July 2026.",
+  "changed": "place",
+  "true_value": "Portland, Oregon, United States",
+  "false_value": "Cary, North Carolina, United States",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c199539923": 199539923,
+   "c197512780": 197512780
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-07-24",
+  "scheduled": null
+ },
+ {
+  "item_id": "c051",
+  "photo": "c197009897",
+  "other_photo": "c202116938",
+  "true_caption": "Photograph shows a football match in Grödig, Austria on 7 August 2026.",
+  "false_caption": "Photograph shows a football match in Grödig, Austria on 20 October 2026.",
+  "changed": "date",
+  "true_value": "7 August 2026",
+  "false_value": "20 October 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c197009897": 197009897,
+   "c202116938": 202116938
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-08-07",
+  "scheduled": true
+ },
+ {
+  "item_id": "c052",
+  "photo": "c195596850",
+  "other_photo": "c199837419",
+  "true_caption": "Photograph shows a football match in Seattle, Washington, United States on 12 July 2026.",
+  "false_caption": "Photograph shows a street circuit motor race in Seattle, Washington, United States on 12 July 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "a street circuit motor race",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c195596850": 195596850,
+   "c199837419": 199837419
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-07-12",
+  "scheduled": null
+ },
+ {
+  "item_id": "c053",
+  "photo": "c198669198",
+  "other_photo": "c196828609",
+  "true_caption": "Photograph shows an open-wheel motor race in Silverstone, United Kingdom on 4 July 2026.",
+  "false_caption": "Photograph shows an open-wheel motor race in Thruxton, United Kingdom on 4 July 2026.",
+  "changed": "place",
+  "true_value": "Silverstone, United Kingdom",
+  "false_value": "Thruxton, United Kingdom",
+  "group": "sport",
+  "kind": "Formula One race",
+  "sources": {
+   "c198669198": 198669198,
+   "c196828609": 196828609
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-07-04",
+  "scheduled": null
+ },
+ {
+  "item_id": "c054",
+  "photo": "c195174318",
+  "other_photo": "c201613704",
+  "true_caption": "Photograph shows a football match in Cary, North Carolina, United States on 4 July 2026.",
+  "false_caption": "Photograph shows a football match in Cary, North Carolina, United States on 22 August 2026.",
+  "changed": "date",
+  "true_value": "4 July 2026",
+  "false_value": "22 August 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c195174318": 195174318,
+   "c201613704": 201613704
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-07-04",
+  "scheduled": true
+ },
+ {
+  "item_id": "c055",
+  "photo": "c197602601",
+  "other_photo": "c199837419",
+  "true_caption": "Photograph shows a football match in Portland, Oregon, United States on 15 August 2026.",
+  "false_caption": "Photograph shows a curling competition in Portland, Oregon, United States on 15 August 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "a curling competition",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c197602601": 197602601,
+   "c199837419": 199837419
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-15",
+  "scheduled": null
+ },
+ {
+  "item_id": "c056",
+  "photo": "c198341146",
+  "other_photo": "c202789978",
+  "true_caption": "Photograph shows a football match in Nelson, United Kingdom on 8 August 2026.",
+  "false_caption": "Photograph shows a football match in Wellington, New Zealand on 8 August 2026.",
+  "changed": "place",
+  "true_value": "Nelson, United Kingdom",
+  "false_value": "Wellington, New Zealand",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c198341146": 198341146,
+   "c202789978": 202789978
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-08-08",
+  "scheduled": null
+ },
+ {
+  "item_id": "c058",
+  "photo": "c199452778",
+  "other_photo": "c202116938",
+  "true_caption": "Photograph shows a football match in Montbéliard, France on 12 September 2026.",
+  "false_caption": "Photograph shows an open-wheel motor race in Montbéliard, France on 12 September 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "an open-wheel motor race",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c199452778": 199452778,
+   "c202116938": 202116938
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-09-12",
+  "scheduled": null
+ },
+ {
+  "item_id": "c059",
+  "photo": "c202918583",
+  "other_photo": "c202481514",
+  "true_caption": "Photograph shows a motor race in Singapore, Singapore on 10 October 2026.",
+  "false_caption": "Photograph shows a motor race in Cary, North Carolina, United States on 10 October 2026.",
+  "changed": "place",
+  "true_value": "Singapore, Singapore",
+  "false_value": "Cary, North Carolina, United States",
+  "group": "sport",
+  "kind": "Formula One grand prix",
+  "sources": {
+   "c202918583": 202918583,
+   "c202481514": 202481514
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-10-10",
+  "scheduled": null
+ },
+ {
+  "item_id": "c060",
+  "photo": "c198836782",
+  "other_photo": "c198665074",
+  "true_caption": "Photograph shows a rowing boat race in San Sebastián, Spain on 2 September 2026.",
+  "false_caption": "Photograph shows a rowing boat race in San Sebastián, Spain on 24 July 2026.",
+  "changed": "date",
+  "true_value": "2 September 2026",
+  "false_value": "24 July 2026",
+  "group": "sport",
+  "kind": "fixed-seat rowing regatta",
+  "sources": {
+   "c198836782": 198836782,
+   "c198665074": 198665074
+  },
+  "checkable": false,
+  "text_in_photo": true,
+  "taken": "2026-09-02",
+  "scheduled": true
+ },
+ {
+  "item_id": "c061",
+  "photo": "c195170097",
+  "other_photo": "c196654652",
+  "true_caption": "Photograph shows a horse riding competition in Chepstow, United Kingdom on 4 July 2026.",
+  "false_caption": "Photograph shows a rugby match in a stadium in Chepstow, United Kingdom on 4 July 2026.",
+  "changed": "event",
+  "true_value": "a horse riding competition",
+  "false_value": "a rugby match in a stadium",
+  "group": "sport",
+  "kind": "eventing horse trials",
+  "sources": {
+   "c195170097": 195170097,
+   "c196654652": 196654652
+  },
+  "checkable": true,
+  "text_in_photo": false,
+  "taken": "2026-07-04",
+  "scheduled": null
+ },
+ {
+  "item_id": "c062",
+  "photo": "c195179556",
+  "other_photo": "c198987276",
+  "true_caption": "Photograph shows a rugby match in a stadium in Cardiff, United Kingdom on 4 July 2026.",
+  "false_caption": "Photograph shows a swimming competition in Cardiff, United Kingdom on 4 July 2026.",
+  "changed": "event",
+  "true_value": "a rugby match in a stadium",
+  "false_value": "a swimming competition",
+  "group": "sport",
+  "kind": "rugby union match",
+  "sources": {
+   "c195179556": 195179556,
+   "c198987276": 198987276
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-07-04",
+  "scheduled": null
+ },
+ {
+  "item_id": "c063",
+  "photo": "c197263412",
+  "other_photo": "c195170091",
+  "true_caption": "Photograph shows an athletics competition in Birmingham, United Kingdom on 11 August 2026.",
+  "false_caption": "Photograph shows a rally car race in Birmingham, United Kingdom on 11 August 2026.",
+  "changed": "event",
+  "true_value": "an athletics competition",
+  "false_value": "a rally car race",
+  "group": "sport",
+  "kind": "athletics championships",
+  "sources": {
+   "c197263412": 197263412,
+   "c195170091": 195170091
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-11",
+  "scheduled": null
+ },
+ {
+  "item_id": "c064",
+  "photo": "c200580120",
+  "other_photo": "c198397254",
+  "true_caption": "Photograph shows an open-air circus show in Terrassa, Spain on 20 September 2026.",
+  "false_caption": "Photograph shows an open-air concert in Terrassa, Spain on 20 September 2026.",
+  "changed": "event",
+  "true_value": "an open-air circus show",
+  "false_value": "an open-air concert",
+  "group": "show",
+  "kind": "street circus show",
+  "sources": {
+   "c200580120": 200580120,
+   "c198397254": 198397254
+  },
+  "checkable": true,
+  "text_in_photo": false,
+  "taken": "2026-09-20",
+  "scheduled": null
+ },
+ {
+  "item_id": "c065",
+  "photo": "c199687802",
+  "other_photo": "c200580110",
+  "true_caption": "Photograph shows a multi-sport games opening ceremony in Rosario, Argentina on 13 September 2026.",
+  "false_caption": "Photograph shows an indoor floorball match in Rosario, Argentina on 13 September 2026.",
+  "changed": "event",
+  "true_value": "a multi-sport games opening ceremony",
+  "false_value": "an indoor floorball match",
+  "group": "ceremony",
+  "kind": "games opening ceremony",
+  "sources": {
+   "c199687802": 199687802,
+   "c200580110": 200580110
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-09-13",
+  "scheduled": null
+ },
+ {
+  "item_id": "c066",
+  "photo": "c198985970",
+  "other_photo": "c195178965",
+  "true_caption": "Photograph shows an indoor floorball match in Chomutov, Czech Republic on 4 September 2026.",
+  "false_caption": "Photograph shows an athletics competition in Chomutov, Czech Republic on 4 September 2026.",
+  "changed": "event",
+  "true_value": "an indoor floorball match",
+  "false_value": "an athletics competition",
+  "group": "sport",
+  "kind": "floorball match",
+  "sources": {
+   "c198985970": 198985970,
+   "c195178965": 195178965
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-09-04",
+  "scheduled": null
+ },
+ {
+  "item_id": "c067",
+  "photo": "c198984525",
+  "other_photo": "c197094001",
+  "true_caption": "Photograph shows a human tower festival in Barcelona, Spain on 6 September 2026.",
+  "false_caption": "Photograph shows a human tower festival in Llantood, Wales, United Kingdom on 6 September 2026.",
+  "changed": "place",
+  "true_value": "Barcelona, Spain",
+  "false_value": "Llantood, Wales, United Kingdom",
+  "group": "festival",
+  "kind": "castells (human tower) festival",
+  "sources": {
+   "c198984525": 198984525,
+   "c197094001": 197094001
+  },
+  "checkable": true,
+  "text_in_photo": false,
+  "taken": "2026-09-06",
+  "scheduled": null
+ },
+ {
+  "item_id": "c069",
+  "photo": "c196654672",
+  "other_photo": "c197250719",
+  "true_caption": "Photograph shows a rally car race in Reconquista, Argentina on 31 July 2026.",
+  "false_caption": "Photograph shows a horse riding competition in Reconquista, Argentina on 31 July 2026.",
+  "changed": "event",
+  "true_value": "a rally car race",
+  "false_value": "a horse riding competition",
+  "group": "sport",
+  "kind": "rally car race",
+  "sources": {
+   "c196654672": 196654672,
+   "c197250719": 197250719
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-07-31",
+  "scheduled": null
+ },
+ {
+  "item_id": "c070",
+  "photo": "c198964219",
+  "other_photo": "c200586652",
+  "true_caption": "Photograph shows a swimming competition in Guiyang, China on 30 August 2026.",
+  "false_caption": "Photograph shows a swimming competition in Montbéliard, France on 30 August 2026.",
+  "changed": "place",
+  "true_value": "Guiyang, China",
+  "false_value": "Montbéliard, France",
+  "group": "sport",
+  "kind": "swimming race",
+  "sources": {
+   "c198964219": 198964219,
+   "c200586652": 200586652
+  },
+  "checkable": true,
+  "text_in_photo": true,
+  "taken": "2026-08-30",
+  "scheduled": null
+ }
+]

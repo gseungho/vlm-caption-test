@@ -1,0 +1,1280 @@
+[
+ {
+  "item_id": "c001",
+  "photo": "c198834346",
+  "other_photo": "c199502741",
+  "true_caption": "Photograph shows a stadium opening ceremony in Bishkek, Kyrgyzstan on 31 August 2026.",
+  "false_caption": "Photograph shows a stadium opening ceremony in Oslo, Norway on 31 August 2026.",
+  "changed": "place",
+  "true_value": "Bishkek, Kyrgyzstan",
+  "false_value": "Oslo, Norway",
+  "group": "ceremony",
+  "kind": "opening ceremony",
+  "sources": {
+   "c198834346": 198834346,
+   "c199502741": 199502741
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c003",
+  "photo": "c196896277",
+  "other_photo": "c202083524",
+  "true_caption": "Photograph shows a church procession in Sankt Oswald in Freiland, Austria on 2 August 2026.",
+  "false_caption": "Photograph shows a large indoor ceremony in Sankt Oswald in Freiland, Austria on 2 August 2026.",
+  "changed": "event",
+  "true_value": "a church procession",
+  "false_value": "a large indoor ceremony",
+  "group": "ceremony",
+  "kind": "church procession",
+  "sources": {
+   "c196896277": 196896277,
+   "c202083524": 202083524
+  },
+  "checkable": true,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c004",
+  "photo": "c202083511",
+  "other_photo": "c196896279",
+  "true_caption": "Photograph shows a large indoor ceremony in Cyberjaya, Malaysia on 17 October 2026.",
+  "false_caption": "Photograph shows a large indoor ceremony in Sankt Oswald in Freiland, Austria on 17 October 2026.",
+  "changed": "place",
+  "true_value": "Cyberjaya, Malaysia",
+  "false_value": "Sankt Oswald in Freiland, Austria",
+  "group": "ceremony",
+  "kind": "book launch ceremony",
+  "sources": {
+   "c202083511": 202083511,
+   "c196896279": 196896279
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c005",
+  "photo": "c202028381",
+  "other_photo": "c195344184",
+  "true_caption": "Photograph shows a city light festival in Berlin, Germany on 15 October 2026.",
+  "false_caption": "Photograph shows a city light festival in Berlin, Germany on 3 July 2026.",
+  "changed": "date",
+  "true_value": "15 October 2026",
+  "false_value": "3 July 2026",
+  "group": "festival",
+  "kind": "light festival",
+  "sources": {
+   "c202028381": 202028381,
+   "c195344184": 195344184
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c006",
+  "photo": "c196208559",
+  "other_photo": "c199350848",
+  "true_caption": "Photograph shows a village festival arch raising in Braga, Portugal on 25 July 2026.",
+  "false_caption": "Photograph shows a funfair with rides in Braga, Portugal on 25 July 2026.",
+  "changed": "event",
+  "true_value": "a village festival arch raising",
+  "false_value": "a funfair with rides",
+  "group": "festival",
+  "kind": "festival arch raising",
+  "sources": {
+   "c196208559": 196208559,
+   "c199350848": 199350848
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c007",
+  "photo": "c199350866",
+  "other_photo": "c200989064",
+  "true_caption": "Photograph shows a night-time town light festival in Bad Mergentheim, Germany on 11 September 2026.",
+  "false_caption": "Photograph shows a night-time town light festival in Mexico City, Mexico on 11 September 2026.",
+  "changed": "place",
+  "true_value": "Bad Mergentheim, Germany",
+  "false_value": "Mexico City, Mexico",
+  "group": "festival",
+  "kind": "town light festival",
+  "sources": {
+   "c199350866": 199350866,
+   "c200989064": 200989064
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c008",
+  "photo": "c200989065",
+  "other_photo": "c198122865",
+  "true_caption": "Photograph shows an outdoor festival with stalls in Hahira, Georgia, United States on 3 October 2026.",
+  "false_caption": "Photograph shows an outdoor festival with stalls in Hahira, Georgia, United States on 20 September 2026.",
+  "changed": "date",
+  "true_value": "3 October 2026",
+  "false_value": "20 September 2026",
+  "group": "festival",
+  "kind": "town festival",
+  "sources": {
+   "c200989065": 200989065,
+   "c198122865": 198122865
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c009",
+  "photo": "c199699348",
+  "other_photo": "c199350848",
+  "true_caption": "Photograph shows a funfair with rides in Wiesbaden, Germany on 4 July 2026.",
+  "false_caption": "Photograph shows an outdoor festival with stalls in Wiesbaden, Germany on 4 July 2026.",
+  "changed": "event",
+  "true_value": "a funfair with rides",
+  "false_value": "an outdoor festival with stalls",
+  "group": "festival",
+  "kind": "funfair",
+  "sources": {
+   "c199699348": 199699348,
+   "c199350848": 199350848
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c010",
+  "photo": "c195343013",
+  "other_photo": "c202028370",
+  "true_caption": "Photograph shows an outdoor light festival in Adelaide, Australia on 3 July 2026.",
+  "false_caption": "Photograph shows an outdoor light festival in Berlin, Germany on 3 July 2026.",
+  "changed": "place",
+  "true_value": "Adelaide, Australia",
+  "false_value": "Berlin, Germany",
+  "group": "festival",
+  "kind": "light festival",
+  "sources": {
+   "c195343013": 195343013,
+   "c202028370": 202028370
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c011",
+  "photo": "c198122860",
+  "other_photo": "c195654402",
+  "true_caption": "Photograph shows a traditional folk festival in Probsteierhagen, Germany on 23 August 2026.",
+  "false_caption": "Photograph shows a traditional folk festival in Probsteierhagen, Germany on 25 July 2026.",
+  "changed": "date",
+  "true_value": "23 August 2026",
+  "false_value": "25 July 2026",
+  "group": "festival",
+  "kind": "harvest folk festival",
+  "sources": {
+   "c198122860": 198122860,
+   "c195654402": 195654402
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c012",
+  "photo": "c195369346",
+  "other_photo": "c195192214",
+  "true_caption": "Photograph shows an outdoor football fan festival in Mexico City, Mexico on 7 July 2026.",
+  "false_caption": "Photograph shows a costumed street festival in Mexico City, Mexico on 7 July 2026.",
+  "changed": "event",
+  "true_value": "an outdoor football fan festival",
+  "false_value": "a costumed street festival",
+  "group": "festival",
+  "kind": "football fan festival",
+  "sources": {
+   "c195369346": 195369346,
+   "c195192214": 195192214
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c013",
+  "photo": "c202173777",
+  "other_photo": "c196208574",
+  "true_caption": "Photograph shows a costumed street festival in Belfort, France on 23 October 2026.",
+  "false_caption": "Photograph shows a costumed street festival in Bad Mergentheim, Germany on 23 October 2026.",
+  "changed": "place",
+  "true_value": "Belfort, France",
+  "false_value": "Bad Mergentheim, Germany",
+  "group": "festival",
+  "kind": "Halloween street festival",
+  "sources": {
+   "c202173777": 202173777,
+   "c196208574": 196208574
+  },
+  "checkable": false,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c014",
+  "photo": "c195654222",
+  "other_photo": "c195369345",
+  "true_caption": "Photograph shows a fireworks display in Belfort, France on 13 July 2026.",
+  "false_caption": "Photograph shows a fireworks display in Belfort, France on 4 July 2026.",
+  "changed": "date",
+  "true_value": "13 July 2026",
+  "false_value": "4 July 2026",
+  "group": "festival",
+  "kind": "fireworks display",
+  "sources": {
+   "c195654222": 195654222,
+   "c195369345": 195369345
+  },
+  "checkable": false,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c016",
+  "photo": "c195932245",
+  "other_photo": "c198887954",
+  "true_caption": "Photograph shows an open-air concert in Nijmegen, Netherlands on 18 July 2026.",
+  "false_caption": "Photograph shows an open-air concert in Helsinki, Finland on 18 July 2026.",
+  "changed": "place",
+  "true_value": "Nijmegen, Netherlands",
+  "false_value": "Helsinki, Finland",
+  "group": "music",
+  "kind": "open-air concert",
+  "sources": {
+   "c195932245": 195932245,
+   "c198887954": 198887954
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c017",
+  "photo": "c200650673",
+  "other_photo": "c195626811",
+  "true_caption": "Photograph shows a live music concert in Nashville, Tennessee, United States on 18 September 2026.",
+  "false_caption": "Photograph shows a live music concert in Nashville, Tennessee, United States on 18 July 2026.",
+  "changed": "date",
+  "true_value": "18 September 2026",
+  "false_value": "18 July 2026",
+  "group": "music",
+  "kind": "Americana music festival",
+  "sources": {
+   "c200650673": 200650673,
+   "c195626811": 195626811
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c020",
+  "photo": "c198887955",
+  "other_photo": "c195968317",
+  "true_caption": "Photograph shows a live band concert in Braga, Portugal on 4 September 2026.",
+  "false_caption": "Photograph shows a live band concert in Braga, Portugal on 11 July 2026.",
+  "changed": "date",
+  "true_value": "4 September 2026",
+  "false_value": "11 July 2026",
+  "group": "music",
+  "kind": "blues concert",
+  "sources": {
+   "c198887955": 198887955,
+   "c195968317": 195968317
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c021",
+  "photo": "c196225353",
+  "other_photo": "c200650677",
+  "true_caption": "Photograph shows a live band concert in Nijmegen, Netherlands on 22 July 2026.",
+  "false_caption": "Photograph shows a stadium halftime show in Nijmegen, Netherlands on 22 July 2026.",
+  "changed": "event",
+  "true_value": "a live band concert",
+  "false_value": "a stadium halftime show",
+  "group": "music",
+  "kind": "music festival concert",
+  "sources": {
+   "c196225353": 196225353,
+   "c200650677": 200650677
+  },
+  "checkable": true,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c022",
+  "photo": "c195181130",
+  "other_photo": "c196072663",
+  "true_caption": "Photograph shows a stadium concert in Los Angeles, California, United States on 4 July 2026.",
+  "false_caption": "Photograph shows a stadium concert in Braga, Portugal on 4 July 2026.",
+  "changed": "place",
+  "true_value": "Los Angeles, California, United States",
+  "false_value": "Braga, Portugal",
+  "group": "music",
+  "kind": "stadium concert",
+  "sources": {
+   "c195181130": 195181130,
+   "c196072663": 196072663
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c023",
+  "photo": "c198913625",
+  "other_photo": "c195948220",
+  "true_caption": "Photograph shows a wind band concert in Póvoa de Lanhoso, Portugal on 30 August 2026.",
+  "false_caption": "Photograph shows a wind band concert in Póvoa de Lanhoso, Portugal on 19 July 2026.",
+  "changed": "date",
+  "true_value": "30 August 2026",
+  "false_value": "19 July 2026",
+  "group": "music",
+  "kind": "wind band concert",
+  "sources": {
+   "c198913625": 198913625,
+   "c195948220": 195948220
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c024",
+  "photo": "c196986377",
+  "other_photo": "c195948220",
+  "true_caption": "Photograph shows a live music concert in Helsinki, Finland on 7 August 2026.",
+  "false_caption": "Photograph shows a wind band concert in Helsinki, Finland on 7 August 2026.",
+  "changed": "event",
+  "true_value": "a live music concert",
+  "false_value": "a wind band concert",
+  "group": "music",
+  "kind": "folk music concert",
+  "sources": {
+   "c196986377": 196986377,
+   "c195948220": 195948220
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c025",
+  "photo": "c195948215",
+  "other_photo": "c195959356",
+  "true_caption": "Photograph shows a stadium halftime show in East Rutherford, New Jersey, United States on 19 July 2026.",
+  "false_caption": "Photograph shows a stadium halftime show in Nijmegen, Netherlands on 19 July 2026.",
+  "changed": "place",
+  "true_value": "East Rutherford, New Jersey, United States",
+  "false_value": "Nijmegen, Netherlands",
+  "group": "music",
+  "kind": "stadium halftime show",
+  "sources": {
+   "c195948215": 195948215,
+   "c195959356": 195959356
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c026",
+  "photo": "c196072664",
+  "other_photo": "c195626811",
+  "true_caption": "Photograph shows an open-air concert in Rudolstadt, Germany on 2 July 2026.",
+  "false_caption": "Photograph shows an open-air concert in Rudolstadt, Germany on 18 September 2026.",
+  "changed": "date",
+  "true_value": "2 July 2026",
+  "false_value": "18 September 2026",
+  "group": "music",
+  "kind": "open-air festival concert",
+  "sources": {
+   "c196072664": 196072664,
+   "c195626811": 195626811
+  },
+  "checkable": false,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c027",
+  "photo": "c201952325",
+  "other_photo": "c202215844",
+  "true_caption": "Photograph shows an outdoor protest rally in Minneapolis, Minnesota, United States on 17 October 2026.",
+  "false_caption": "Photograph shows a protest march with banners in Minneapolis, Minnesota, United States on 17 October 2026.",
+  "changed": "event",
+  "true_value": "an outdoor protest rally",
+  "false_value": "a protest march with banners",
+  "group": "other",
+  "kind": "protest rally",
+  "sources": {
+   "c201952325": 201952325,
+   "c202215844": 202215844
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c028",
+  "photo": "c197594756",
+  "other_photo": "c202207547",
+  "true_caption": "Photograph shows a street protest march in Berlin, Germany on 10 July 2026.",
+  "false_caption": "Photograph shows a street protest march in Portland, Oregon, United States on 10 July 2026.",
+  "changed": "place",
+  "true_value": "Berlin, Germany",
+  "false_value": "Portland, Oregon, United States",
+  "group": "other",
+  "kind": "protest march",
+  "sources": {
+   "c197594756": 197594756,
+   "c202207547": 202207547
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c029",
+  "photo": "c199365734",
+  "other_photo": "c201829510",
+  "true_caption": "Photograph shows a protest march with placards in Amsterdam, Netherlands on 12 September 2026.",
+  "false_caption": "Photograph shows a protest march with placards in Amsterdam, Netherlands on 17 October 2026.",
+  "changed": "date",
+  "true_value": "12 September 2026",
+  "false_value": "17 October 2026",
+  "group": "other",
+  "kind": "climate march",
+  "sources": {
+   "c199365734": 199365734,
+   "c201829510": 201829510
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c030",
+  "photo": "c202019131",
+  "other_photo": "c200490125",
+  "true_caption": "Photograph shows a street riot in Paris, France on 17 October 2026.",
+  "false_caption": "Photograph shows a protest march with placards in Paris, France on 17 October 2026.",
+  "changed": "event",
+  "true_value": "a street riot",
+  "false_value": "a protest march with placards",
+  "group": "other",
+  "kind": "street riot",
+  "sources": {
+   "c202019131": 202019131,
+   "c200490125": 200490125
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c031",
+  "photo": "c196055397",
+  "other_photo": "c197594818",
+  "true_caption": "Photograph shows an outdoor football screening in Newcastle upon Tyne, United Kingdom on 15 July 2026.",
+  "false_caption": "Photograph shows an outdoor football screening in Ottawa, Canada on 15 July 2026.",
+  "changed": "place",
+  "true_value": "Newcastle upon Tyne, United Kingdom",
+  "false_value": "Ottawa, Canada",
+  "group": "other",
+  "kind": "outdoor football screening",
+  "sources": {
+   "c196055397": 196055397,
+   "c197594818": 197594818
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c032",
+  "photo": "c201829507",
+  "other_photo": "c202019200",
+  "true_caption": "Photograph shows a protest march with banners in Mexico City, Mexico on 2 October 2026.",
+  "false_caption": "Photograph shows a protest march with banners in Mexico City, Mexico on 6 August 2026.",
+  "changed": "date",
+  "true_value": "2 October 2026",
+  "false_value": "6 August 2026",
+  "group": "other",
+  "kind": "commemorative protest march",
+  "sources": {
+   "c201829507": 201829507,
+   "c202019200": 202019200
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c033",
+  "photo": "c202207468",
+  "other_photo": "c197594818",
+  "true_caption": "Photograph shows a street protest march in Paris, France on 24 October 2026.",
+  "false_caption": "Photograph shows a street bed race in Paris, France on 24 October 2026.",
+  "changed": "event",
+  "true_value": "a street protest march",
+  "false_value": "a street bed race",
+  "group": "other",
+  "kind": "protest march",
+  "sources": {
+   "c202207468": 202207468,
+   "c197594818": 197594818
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c034",
+  "photo": "c201989551",
+  "other_photo": "c202207547",
+  "true_caption": "Photograph shows a street protest march in Portland, Oregon, United States on 17 October 2026.",
+  "false_caption": "Photograph shows a street protest march in Berlin, Germany on 17 October 2026.",
+  "changed": "place",
+  "true_value": "Portland, Oregon, United States",
+  "false_value": "Berlin, Germany",
+  "group": "other",
+  "kind": "protest march",
+  "sources": {
+   "c201989551": 201989551,
+   "c202207547": 202207547
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c035",
+  "photo": "c197053473",
+  "other_photo": "c197594262",
+  "true_caption": "Photograph shows a garden party reception in Ottawa, Canada on 4 July 2026.",
+  "false_caption": "Photograph shows a garden party reception in Ottawa, Canada on 19 September 2026.",
+  "changed": "date",
+  "true_value": "4 July 2026",
+  "false_value": "19 September 2026",
+  "group": "other",
+  "kind": "national day garden reception",
+  "sources": {
+   "c197053473": 197053473,
+   "c197594262": 197594262
+  },
+  "checkable": false,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c036",
+  "photo": "c195145313",
+  "other_photo": "c197053432",
+  "true_caption": "Photograph shows a street bed race in Long Lake, New York, United States on 4 July 2026.",
+  "false_caption": "Photograph shows a street protest rally in Long Lake, New York, United States on 4 July 2026.",
+  "changed": "event",
+  "true_value": "a street bed race",
+  "false_value": "a street protest rally",
+  "group": "other",
+  "kind": "bed race",
+  "sources": {
+   "c195145313": 195145313,
+   "c197053432": 197053432
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c037",
+  "photo": "c201889926",
+  "other_photo": "c201952577",
+  "true_caption": "Photograph shows a street protest in Helsinki, Finland on 19 September 2026.",
+  "false_caption": "Photograph shows a street protest in Minneapolis, Minnesota, United States on 19 September 2026.",
+  "changed": "place",
+  "true_value": "Helsinki, Finland",
+  "false_value": "Minneapolis, Minnesota, United States",
+  "group": "other",
+  "kind": "protest rally",
+  "sources": {
+   "c201889926": 201889926,
+   "c201952577": 201952577
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c038",
+  "photo": "c202215846",
+  "other_photo": "c201864286",
+  "true_caption": "Photograph shows an outdoor protest rally in Bellingham, Washington, United States on 17 October 2026.",
+  "false_caption": "Photograph shows an outdoor protest rally in Bellingham, Washington, United States on 19 September 2026.",
+  "changed": "date",
+  "true_value": "17 October 2026",
+  "false_value": "19 September 2026",
+  "group": "other",
+  "kind": "protest rally",
+  "sources": {
+   "c202215846": 202215846,
+   "c201864286": 201864286
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c039",
+  "photo": "c197594381",
+  "other_photo": "c196055730",
+  "true_caption": "Photograph shows an outdoor protest rally in Berlin, Germany on 6 August 2026.",
+  "false_caption": "Photograph shows a street riot in Berlin, Germany on 6 August 2026.",
+  "changed": "event",
+  "true_value": "an outdoor protest rally",
+  "false_value": "a street riot",
+  "group": "other",
+  "kind": "climate protest rally",
+  "sources": {
+   "c197594381": 197594381,
+   "c196055730": 196055730
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c040",
+  "photo": "c200393150",
+  "other_photo": "c199365732",
+  "true_caption": "Photograph shows a street protest rally in Manila, Philippines on 21 September 2026.",
+  "false_caption": "Photograph shows a street protest rally in Newcastle upon Tyne, United Kingdom on 21 September 2026.",
+  "changed": "place",
+  "true_value": "Manila, Philippines",
+  "false_value": "Newcastle upon Tyne, United Kingdom",
+  "group": "other",
+  "kind": "political protest rally",
+  "sources": {
+   "c200393150": 200393150,
+   "c199365732": 199365732
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c041",
+  "photo": "c196974163",
+  "other_photo": "c201831539",
+  "true_caption": "Photograph shows a street parade in Vancouver, Canada on 2 August 2026.",
+  "false_caption": "Photograph shows a street parade in Vancouver, Canada on 4 July 2026.",
+  "changed": "date",
+  "true_value": "2 August 2026",
+  "false_value": "4 July 2026",
+  "group": "parade",
+  "kind": "pride parade",
+  "sources": {
+   "c196974163": 196974163,
+   "c201831539": 201831539
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c042",
+  "photo": "c195896312",
+  "other_photo": "c196078876",
+  "true_caption": "Photograph shows an advertising caravan parade in Bollwiller, France on 18 July 2026.",
+  "false_caption": "Photograph shows a river boat parade in Bollwiller, France on 18 July 2026.",
+  "changed": "event",
+  "true_value": "an advertising caravan parade",
+  "false_value": "a river boat parade",
+  "group": "parade",
+  "kind": "publicity caravan parade",
+  "sources": {
+   "c195896312": 195896312,
+   "c196078876": 196078876
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c043",
+  "photo": "c201803330",
+  "other_photo": "c196974259",
+  "true_caption": "Photograph shows a pride parade in Steyr, Austria on 4 July 2026.",
+  "false_caption": "Photograph shows a pride parade in Vancouver, Canada on 4 July 2026.",
+  "changed": "place",
+  "true_value": "Steyr, Austria",
+  "false_value": "Vancouver, Canada",
+  "group": "parade",
+  "kind": "pride parade",
+  "sources": {
+   "c201803330": 201803330,
+   "c196974259": 196974259
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c044",
+  "photo": "c198906805",
+  "other_photo": "c195896298",
+  "true_caption": "Photograph shows a religious street procession in Paris, France on 30 August 2026.",
+  "false_caption": "Photograph shows a religious street procession in Paris, France on 18 July 2026.",
+  "changed": "date",
+  "true_value": "30 August 2026",
+  "false_value": "18 July 2026",
+  "group": "parade",
+  "kind": "Hindu religious procession",
+  "sources": {
+   "c198906805": 198906805,
+   "c195896298": 195896298
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c045",
+  "photo": "c196190038",
+  "other_photo": "c195739675",
+  "true_caption": "Photograph shows a river boat parade in Ulm, Germany on 20 July 2026.",
+  "false_caption": "Photograph shows a religious street procession in Ulm, Germany on 20 July 2026.",
+  "changed": "event",
+  "true_value": "a river boat parade",
+  "false_value": "a religious street procession",
+  "group": "parade",
+  "kind": "river boat parade",
+  "sources": {
+   "c196190038": 196190038,
+   "c195739675": 195739675
+  },
+  "checkable": true,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c046",
+  "photo": "c196078298",
+  "other_photo": "c195845630",
+  "true_caption": "Photograph shows an advertising caravan parade in Chambéry, France on 22 July 2026.",
+  "false_caption": "Photograph shows an advertising caravan parade in Belfort, France on 22 July 2026.",
+  "changed": "place",
+  "true_value": "Chambéry, France",
+  "false_value": "Belfort, France",
+  "group": "parade",
+  "kind": "publicity caravan parade",
+  "sources": {
+   "c196078298": 196078298,
+   "c195845630": 195845630
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c047",
+  "photo": "c195845548",
+  "other_photo": "c196078876",
+  "true_caption": "Photograph shows an advertising caravan parade in Belfort, France on 17 July 2026.",
+  "false_caption": "Photograph shows an advertising caravan parade in Belfort, France on 4 July 2026.",
+  "changed": "date",
+  "true_value": "17 July 2026",
+  "false_value": "4 July 2026",
+  "group": "parade",
+  "kind": "publicity caravan parade",
+  "sources": {
+   "c195845548": 195845548,
+   "c196078876": 196078876
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c048",
+  "photo": "c195739665",
+  "other_photo": "c196190001",
+  "true_caption": "Photograph shows a military parade in Paris, France on 14 July 2026.",
+  "false_caption": "Photograph shows an advertising caravan parade in Paris, France on 14 July 2026.",
+  "changed": "event",
+  "true_value": "a military parade",
+  "false_value": "an advertising caravan parade",
+  "group": "parade",
+  "kind": "military parade",
+  "sources": {
+   "c195739665": 195739665,
+   "c196190001": 196190001
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c049",
+  "photo": "c199624223",
+  "other_photo": "c201471173",
+  "true_caption": "Photograph shows a tabletop gaming convention in Vienna, Austria on 12 July 2026.",
+  "false_caption": "Photograph shows a tabletop gaming convention in Frankfurt, Germany on 12 July 2026.",
+  "changed": "place",
+  "true_value": "Vienna, Austria",
+  "false_value": "Frankfurt, Germany",
+  "group": "show",
+  "kind": "board game convention",
+  "sources": {
+   "c199624223": 199624223,
+   "c201471173": 201471173
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c050",
+  "photo": "c199416568",
+  "other_photo": "c199624217",
+  "true_caption": "Photograph shows a vintage car show in Großschönau, Germany on 29 August 2026.",
+  "false_caption": "Photograph shows a vintage car show in Großschönau, Germany on 5 October 2026.",
+  "changed": "date",
+  "true_value": "29 August 2026",
+  "false_value": "5 October 2026",
+  "group": "show",
+  "kind": "vintage car show",
+  "sources": {
+   "c199416568": 199416568,
+   "c199624217": 199624217
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c051",
+  "photo": "c201473033",
+  "other_photo": "c199216627",
+  "true_caption": "Photograph shows a stadium show in Bishkek, Kyrgyzstan on 5 October 2026.",
+  "false_caption": "Photograph shows a vintage car show in Bishkek, Kyrgyzstan on 5 October 2026.",
+  "changed": "event",
+  "true_value": "a stadium show",
+  "false_value": "a vintage car show",
+  "group": "show",
+  "kind": "stadium opening show",
+  "sources": {
+   "c201473033": 201473033,
+   "c199216627": 199216627
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c052",
+  "photo": "c199217190",
+  "other_photo": "c199416563",
+  "true_caption": "Photograph shows an automotive trade fair in Frankfurt, Germany on 8 September 2026.",
+  "false_caption": "Photograph shows an automotive trade fair in Vienna, Austria on 8 September 2026.",
+  "changed": "place",
+  "true_value": "Frankfurt, Germany",
+  "false_value": "Vienna, Austria",
+  "group": "show",
+  "kind": "automotive trade fair",
+  "sources": {
+   "c199217190": 199217190,
+   "c199416563": 199416563
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c053",
+  "photo": "c202188714",
+  "other_photo": "c202298967",
+  "true_caption": "Photograph shows a football match in Wals-Siezenheim, Austria on 24 October 2026.",
+  "false_caption": "Photograph shows a football match in Wals-Siezenheim, Austria on 19 September 2026.",
+  "changed": "date",
+  "true_value": "24 October 2026",
+  "false_value": "19 September 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c202188714": 202188714,
+   "c202298967": 202298967
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c054",
+  "photo": "c199122140",
+  "other_photo": "c198922383",
+  "true_caption": "Photograph shows a football match in London, United Kingdom on 5 September 2026.",
+  "false_caption": "Photograph shows a road cycling race in London, United Kingdom on 5 September 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "a road cycling race",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c199122140": 199122140,
+   "c198922383": 198922383
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c055",
+  "photo": "c196076357",
+  "other_photo": "c198083588",
+  "true_caption": "Photograph shows a road cycling race in Sassenage, France on 23 July 2026.",
+  "false_caption": "Photograph shows a road cycling race in Paris, France on 23 July 2026.",
+  "changed": "place",
+  "true_value": "Sassenage, France",
+  "false_value": "Paris, France",
+  "group": "sport",
+  "kind": "road cycling race",
+  "sources": {
+   "c196076357": 196076357,
+   "c198083588": 198083588
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c056",
+  "photo": "c199369381",
+  "other_photo": "c196076354",
+  "true_caption": "Photograph shows a road cycling race in Lincoln, United Kingdom on 2 September 2026.",
+  "false_caption": "Photograph shows a road cycling race in Lincoln, United Kingdom on 23 August 2026.",
+  "changed": "date",
+  "true_value": "2 September 2026",
+  "false_value": "23 August 2026",
+  "group": "sport",
+  "kind": "road cycling race",
+  "sources": {
+   "c199369381": 199369381,
+   "c196076354": 196076354
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c058",
+  "photo": "c198921857",
+  "other_photo": "c202188632",
+  "true_caption": "Photograph shows a football match in Newcastle upon Tyne, United Kingdom on 5 September 2026.",
+  "false_caption": "Photograph shows a football match in Wals-Siezenheim, Austria on 5 September 2026.",
+  "changed": "place",
+  "true_value": "Newcastle upon Tyne, United Kingdom",
+  "false_value": "Wals-Siezenheim, Austria",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c198921857": 198921857,
+   "c202188632": 202188632
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c059",
+  "photo": "c202492886",
+  "other_photo": "c198940870",
+  "true_caption": "Photograph shows a football match in Baku, Azerbaijan on 30 October 2026.",
+  "false_caption": "Photograph shows a football match in Baku, Azerbaijan on 5 September 2026.",
+  "changed": "date",
+  "true_value": "30 October 2026",
+  "false_value": "5 September 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c202492886": 202492886,
+   "c198940870": 198940870
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c060",
+  "photo": "c198083589",
+  "other_photo": "c199367228",
+  "true_caption": "Photograph shows a road cycling race in Esparron-de-Verdon, France on 23 August 2026.",
+  "false_caption": "Photograph shows a horse race meeting in Esparron-de-Verdon, France on 23 August 2026.",
+  "changed": "event",
+  "true_value": "a road cycling race",
+  "false_value": "a horse race meeting",
+  "group": "sport",
+  "kind": "road cycling race",
+  "sources": {
+   "c198083589": 198083589,
+   "c199367228": 199367228
+  },
+  "checkable": true,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c061",
+  "photo": "c202298977",
+  "other_photo": "c196995648",
+  "true_caption": "Photograph shows a football match in Helsinki, Finland on 25 October 2026.",
+  "false_caption": "Photograph shows a football match in Inglewood, California, United States on 25 October 2026.",
+  "changed": "place",
+  "true_value": "Helsinki, Finland",
+  "false_value": "Inglewood, California, United States",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c202298977": 202298977,
+   "c196995648": 196995648
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c062",
+  "photo": "c202151087",
+  "other_photo": "c198414122",
+  "true_caption": "Photograph shows a rugby match in Canberra, Australia on 23 October 2026.",
+  "false_caption": "Photograph shows a rugby match in Canberra, Australia on 2 September 2026.",
+  "changed": "date",
+  "true_value": "23 October 2026",
+  "false_value": "2 September 2026",
+  "group": "sport",
+  "kind": "rugby match",
+  "sources": {
+   "c202151087": 202151087,
+   "c198414122": 198414122
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c063",
+  "photo": "c196434317",
+  "other_photo": "c199819089",
+  "true_caption": "Photograph shows a street cycling race in Graz, Austria on 28 July 2026.",
+  "false_caption": "Photograph shows a tennis match in Graz, Austria on 28 July 2026.",
+  "changed": "event",
+  "true_value": "a street cycling race",
+  "false_value": "a tennis match",
+  "group": "sport",
+  "kind": "cycling criterium",
+  "sources": {
+   "c196434317": 196434317,
+   "c199819089": 199819089
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c065",
+  "photo": "c197994789",
+  "other_photo": "c202492881",
+  "true_caption": "Photograph shows a football match in Grödig, Austria on 21 August 2026.",
+  "false_caption": "Photograph shows a football match in Grödig, Austria on 29 August 2026.",
+  "changed": "date",
+  "true_value": "21 August 2026",
+  "false_value": "29 August 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c197994789": 197994789,
+   "c202492881": 202492881
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c066",
+  "photo": "c195477518",
+  "other_photo": "c201076304",
+  "true_caption": "Photograph shows a football match in Inglewood, California, United States on 10 July 2026.",
+  "false_caption": "Photograph shows a tennis match in Inglewood, California, United States on 10 July 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "a tennis match",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c195477518": 195477518,
+   "c201076304": 201076304
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c067",
+  "photo": "c195209525",
+  "other_photo": "c195761123",
+  "true_caption": "Photograph shows a tennis match in London, United Kingdom on 4 July 2026.",
+  "false_caption": "Photograph shows a tennis match in Saint-Germain-en-Laye, France on 4 July 2026.",
+  "changed": "place",
+  "true_value": "London, United Kingdom",
+  "false_value": "Saint-Germain-en-Laye, France",
+  "group": "sport",
+  "kind": "tennis match",
+  "sources": {
+   "c195209525": 195209525,
+   "c195761123": 195761123
+  },
+  "checkable": true,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c068",
+  "photo": "c198414118",
+  "other_photo": "c198940870",
+  "true_caption": "Photograph shows a football match in Villefranche-sur-Saône, France on 29 August 2026.",
+  "false_caption": "Photograph shows a football match in Villefranche-sur-Saône, France on 7 August 2026.",
+  "changed": "date",
+  "true_value": "29 August 2026",
+  "false_value": "7 August 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c198414118": 198414118,
+   "c198940870": 198940870
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c069",
+  "photo": "c196197522",
+  "other_photo": "c196076354",
+  "true_caption": "Photograph shows a road cycling race in Saint-Martin-d'Arc, France on 25 July 2026.",
+  "false_caption": "Photograph shows a football match in Saint-Martin-d'Arc, France on 25 July 2026.",
+  "changed": "event",
+  "true_value": "a road cycling race",
+  "false_value": "a football match",
+  "group": "sport",
+  "kind": "road cycling race",
+  "sources": {
+   "c196197522": 196197522,
+   "c196076354": 196076354
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c070",
+  "photo": "c199310256",
+  "other_photo": "c197003004",
+  "true_caption": "Photograph shows a baseball game opening ceremony in Philadelphia, Pennsylvania, United States on 14 July 2026.",
+  "false_caption": "Photograph shows a baseball game opening ceremony in Cleveland, Ohio, United States on 14 July 2026.",
+  "changed": "place",
+  "true_value": "Philadelphia, Pennsylvania, United States",
+  "false_value": "Cleveland, Ohio, United States",
+  "group": "sport",
+  "kind": "baseball game",
+  "sources": {
+   "c199310256": 199310256,
+   "c197003004": 197003004
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c071",
+  "photo": "c201076379",
+  "other_photo": "c195478955",
+  "true_caption": "Photograph shows a floodlit football match in Thionville, France on 26 September 2026.",
+  "false_caption": "Photograph shows a floodlit football match in Thionville, France on 30 October 2026.",
+  "changed": "date",
+  "true_value": "26 September 2026",
+  "false_value": "30 October 2026",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c201076379": 201076379,
+   "c195478955": 195478955
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c072",
+  "photo": "c196994811",
+  "other_photo": "c197994808",
+  "true_caption": "Photograph shows a football match in Bondoufle, France on 7 August 2026.",
+  "false_caption": "Photograph shows a rugby match in Bondoufle, France on 7 August 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "a rugby match",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c196994811": 196994811,
+   "c197994808": 197994808
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c073",
+  "photo": "c199820022",
+  "other_photo": "c198922383",
+  "true_caption": "Photograph shows a football match in Paris, France on 19 September 2026.",
+  "false_caption": "Photograph shows a football match in Helsinki, Finland on 19 September 2026.",
+  "changed": "place",
+  "true_value": "Paris, France",
+  "false_value": "Helsinki, Finland",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c199820022": 199820022,
+   "c198922383": 198922383
+  },
+  "checkable": false,
+  "text_in_photo": false
+ },
+ {
+  "item_id": "c075",
+  "photo": "c198942606",
+  "other_photo": "c195478955",
+  "true_caption": "Photograph shows a football match in Saint-Germain-en-Laye, France on 5 September 2026.",
+  "false_caption": "Photograph shows a rugby match in Saint-Germain-en-Laye, France on 5 September 2026.",
+  "changed": "event",
+  "true_value": "a football match",
+  "false_value": "a rugby match",
+  "group": "sport",
+  "kind": "football match",
+  "sources": {
+   "c198942606": 198942606,
+   "c195478955": 195478955
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c076",
+  "photo": "c198680034",
+  "other_photo": "c195646531",
+  "true_caption": "Photograph shows a street circuit motor race in Washington, D.C., United States on 23 August 2026.",
+  "false_caption": "Photograph shows a street circuit motor race in Moscow, Russia on 23 August 2026.",
+  "changed": "place",
+  "true_value": "Washington, D.C., United States",
+  "false_value": "Moscow, Russia",
+  "group": "sport",
+  "kind": "motor race",
+  "sources": {
+   "c198680034": 198680034,
+   "c195646531": 195646531
+  },
+  "checkable": true,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c077",
+  "photo": "c197003320",
+  "other_photo": "c195761123",
+  "true_caption": "Photograph shows a baseball game in Cleveland, Ohio, United States on 6 August 2026.",
+  "false_caption": "Photograph shows a baseball game in Cleveland, Ohio, United States on 14 July 2026.",
+  "changed": "date",
+  "true_value": "6 August 2026",
+  "false_value": "14 July 2026",
+  "group": "sport",
+  "kind": "baseball game",
+  "sources": {
+   "c197003320": 197003320,
+   "c195761123": 195761123
+  },
+  "checkable": false,
+  "text_in_photo": true
+ },
+ {
+  "item_id": "c078",
+  "photo": "c197112106",
+  "other_photo": "c196196737",
+  "true_caption": "Photograph shows a road cycling race in Paris, France on 26 July 2026.",
+  "false_caption": "Photograph shows a football match in Paris, France on 26 July 2026.",
+  "changed": "event",
+  "true_value": "a road cycling race",
+  "false_value": "a football match",
+  "group": "sport",
+  "kind": "road cycling race",
+  "sources": {
+   "c197112106": 197112106,
+   "c196196737": 196196737
+  },
+  "checkable": true,
+  "text_in_photo": true
+ }
+]
