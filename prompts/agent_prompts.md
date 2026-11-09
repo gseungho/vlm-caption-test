@@ -1,10 +1,12 @@
-# 문항을 고른 에이전트에게 준 지시
+# 행사와 사진을 고른 에이전트에게 준 지시
 
-실험 대상이 아닌 에이전트(Claude Fable 5.1)에게 문항과 사진을 고르고 확인하게 할 때 준 지시를 순서대로 그대로 옮겼다. 로컬 폴더 경로만 `<repo>`로 바꿨다. 에이전트가 읽은 입력 파일과 사진은 올리지 않았다.
+실험 대상이 아닌 에이전트(Claude Fable 5.1)에게 행사와 사진을 고르고, 캡션에 쓸 사건과 장소를 정하고, 고른 사진을 1000픽셀로 다시 확인하게 했다. 그때 준 지시를 순서와 문장 그대로 옮겼고, 로컬 폴더 경로만 `<repo>`로 바꿨다. 에이전트가 읽은 입력 파일과 사진은 올리지 않았다.
+
+항목 제목은 에이전트를 부를 때 붙인 작업 이름(영어)이다. 머리 줄의 "에이전트 유형"은 부를 때 지정한 값이고, None은 따로 지정하지 않았다는 뜻이다.
 
 ## 35. Pass1 pick events sheets 1
 
-시각 2026-11-06T06:12:30.159Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:12:30.159Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -46,7 +48,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 36. Pass1 pick events sheets 2
 
-시각 2026-11-06T06:12:39.716Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:12:39.716Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -88,7 +90,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 37. Pass1 pick events sheets 3
 
-시각 2026-11-06T06:12:49.270Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:12:49.270Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -130,7 +132,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 38. Pass1 pick events sheets 4
 
-시각 2026-11-06T06:12:58.871Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:12:58.871Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -172,7 +174,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 39. Pass1 pick events sheets 5
 
-시각 2026-11-06T06:13:08.419Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:13:08.419Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -214,7 +216,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 40. Pass1 pick events sheets 6
 
-시각 2026-11-06T06:13:17.972Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:13:17.972Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -256,7 +258,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 41. Pass1 pick events sheets 7
 
-시각 2026-11-06T06:13:27.572Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:13:27.572Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -298,7 +300,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 42. Pass1 pick events sheets 8
 
-시각 2026-11-06T06:13:37.115Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:13:37.115Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -340,7 +342,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 43. Pass1 pick events sheets 9-10
 
-시각 2026-11-06T06:13:47.511Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:13:47.511Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -384,7 +386,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 44. Pass2 1000px check part 1
 
-시각 2026-11-06T06:24:15.737Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:24:15.737Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -409,7 +411,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 45. Pass2 1000px check part 2
 
-시각 2026-11-06T06:24:25.042Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:24:25.042Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -434,7 +436,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 46. Pass2 1000px check part 3
 
-시각 2026-11-06T06:24:34.295Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:24:34.295Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -459,7 +461,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 47. Pass2 1000px check part 4
 
-시각 2026-11-06T06:24:43.540Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:24:43.540Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -484,7 +486,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 48. Pass2 1000px check part 5
 
-시각 2026-11-06T06:24:52.729Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:24:52.729Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -509,7 +511,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 49. Pass2 1000px recheck part 1
 
-시각 2026-11-06T06:37:12.062Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:37:12.062Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -534,7 +536,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 50. Pass2 1000px recheck part 2
 
-시각 2026-11-06T06:37:21.465Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:37:21.465Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -559,7 +561,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 51. Pass2 1000px recheck part 3
 
-시각 2026-11-06T06:37:30.867Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:37:30.867Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -584,7 +586,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 52. Pass2 1000px recheck part 4
 
-시각 2026-11-06T06:37:40.212Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:37:40.212Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -609,7 +611,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 53. Pass2 1000px recheck part 5
 
-시각 2026-11-06T06:37:49.600Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T06:37:49.600Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -634,7 +636,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 54. Pass2 check of repaired items
 
-시각 2026-11-06T07:16:42.608Z, 모델 fable, 종류 general-purpose
+시각 2026-11-06T07:16:42.608Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -659,7 +661,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 55. Confirm pass1 pick events 1
 
-시각 2026-11-08T16:28:22.864Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:28:22.864Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -701,7 +703,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 56. Confirm pass1 pick events 2
 
-시각 2026-11-08T16:28:32.431Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:28:32.431Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -743,7 +745,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 57. Confirm pass1 pick events 3
 
-시각 2026-11-08T16:28:42.015Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:28:42.015Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -785,7 +787,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 58. Confirm pass1 pick events 4
 
-시각 2026-11-08T16:28:51.617Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:28:51.617Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -827,7 +829,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 59. Confirm pass1 pick events 5
 
-시각 2026-11-08T16:29:01.216Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:29:01.216Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -869,7 +871,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 60. Confirm pass1 pick events 6
 
-시각 2026-11-08T16:29:10.836Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:29:10.836Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -911,7 +913,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 61. Confirm pass1 pick events 7-8
 
-시각 2026-11-08T16:29:20.904Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:29:20.904Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -955,7 +957,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 62. Confirm pass2 1000px check 1
 
-시각 2026-11-08T16:39:53.109Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:39:53.109Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -981,7 +983,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 63. Confirm pass2 1000px check 2
 
-시각 2026-11-08T16:40:04.059Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:40:04.059Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1007,7 +1009,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 64. Confirm pass2 1000px check 3
 
-시각 2026-11-08T16:40:15.008Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:40:15.008Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1033,7 +1035,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 65. Confirm pass2 1000px check 4
 
-시각 2026-11-08T16:40:25.999Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:40:25.999Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1059,7 +1061,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 66. Confirm pass2 recheck repaired items
 
-시각 2026-11-08T16:46:22.785Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:46:22.785Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1085,7 +1087,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 67. Confirm pass2 recheck six items
 
-시각 2026-11-08T16:50:28.472Z, 모델 fable, 종류 general-purpose
+시각 2026-11-08T16:50:28.472Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1111,7 +1113,7 @@ Be strict: when in doubt about true_ok, false_ok, person_ok or ooc_ok, set it fa
 
 ## 68. Confirm rescue pick events 9
 
-시각 2026-11-09T01:53:56.631Z, 모델 fable, 종류 general-purpose
+시각 2026-11-09T01:53:56.631Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1155,7 +1157,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 69. Confirm rescue pick events 10
 
-시각 2026-11-09T01:54:08.034Z, 모델 fable, 종류 general-purpose
+시각 2026-11-09T01:54:08.034Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1199,7 +1201,7 @@ Look at every sheet image; do not decide from the metadata alone. Be strict: whe
 
 ## 70. Confirm new item photos 11
 
-시각 2026-11-09T01:54:16.582Z, 모델 fable, 종류 general-purpose
+시각 2026-11-09T01:54:16.582Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are helping build test items for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study; you are an annotator. Work only with the Read and Write tools (no Bash, no web, no other files).
@@ -1236,7 +1238,7 @@ Be strict: when in doubt, set `use` false. At the end reply with one short parag
 
 ## 71. Confirm pass2 check second round
 
-시각 2026-11-09T02:00:45.257Z, 모델 fable, 종류 general-purpose
+시각 2026-11-09T02:00:45.257Z, 모델 fable, 에이전트 유형 general-purpose
 
 ````text
 You are an annotator for a research study on whether vision-language models trust captions over photos. You are NOT a subject of the study. Work only with the Read and Write tools (no Bash, no web, no other files).
